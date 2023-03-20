@@ -1,2 +1,2 @@
 # microblog
-My microblog (log.nicksimson.com) backed up
+My microblog (log.nick.sh) backed up weekly
