@@ -7,6 +7,68 @@
 	"items": [
 		
 			{
+				"id": "http://nsmsn.micro.blog/2023/04/01/baby-bookworm.html",
+				
+				"content_html": "<p>Baby bookworm 📚</p>\n\n<p><img src=\"uploads/2023/f489a6d77d.jpg\" width=\"600\" height=\"600\" alt=\"A baby in an orange cardigan sweater looks at an open picture book in her lap.\"></p>\n",
+				"content_text": "Baby bookworm 📚 \n\n<img src=\"uploads/2023/f489a6d77d.jpg\" width=\"600\" height=\"600\" alt=\"A baby in an orange cardigan sweater looks at an open picture book in her lap.\">\n",
+				"date_published": "2023-04-01T10:08:30-04:00",
+				"url": "https://log.nick.sh/2023/04/01/baby-bookworm.html",
+				"tags": ["personal","parenting"]
+			},
+			{
+				"id": "http://nsmsn.micro.blog/2023/03/31/yes-unfortunately-tim.html",
+				
+				"content_html": "<p>Betty Bean: <a href=\"https://www.knoxtntoday.com/tim-please-stop-this-foolishness/\">Tim, please stop this foolishness</a>🔗</p>\n\n<p>Yes, unfortunately Tim Burchett is my Congressman. Or more accurately, he represents the Tennessee Congressional district I happen to live in. If you want to know what&rsquo;s up with the guy, well, so do his friends.</p>\n",
+				"content_text": "Betty Bean: [Tim, please stop this foolishness](https://www.knoxtntoday.com/tim-please-stop-this-foolishness/)🔗\n\nYes, unfortunately Tim Burchett is my Congressman. Or more accurately, he represents the Tennessee Congressional district I happen to live in. If you want to know what's up with the guy, well, so do his friends.\n",
+				"date_published": "2023-03-31T11:07:16-04:00",
+				"url": "https://log.nick.sh/2023/03/31/yes-unfortunately-tim.html",
+				"tags": ["journalism","politics"]
+			},
+			{
+				"id": "http://nsmsn.micro.blog/2023/03/31/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading <a href=\"https://micro.blog/books/9780525521143\">The Glass Hotel</a> by Emily St. John Mandel 📚</p>\n",
+				"content_text": "Finished reading [The Glass Hotel](https://micro.blog/books/9780525521143) by Emily St. John Mandel 📚\n",
+				"date_published": "2023-03-31T01:09:44-04:00",
+				"url": "https://log.nick.sh/2023/03/31/finished-reading-the.html"
+			},
+			{
+				"id": "http://nsmsn.micro.blog/2023/03/29/promises.html",
+				"title": "Promises",
+				"content_html": "<p>Clearleft Newsletter, <a href=\"https://tinyletter.com/clearleft/letters/march-2023-at-clearleft-promises\">March 2023 — Promises</a> 📬</p>\n\n<blockquote>\n<p>Making a comp for sign-off is like making a promise. When the finished product doesn’t match the comp, it’s like a promise has been broken.</p>\n\n<p>By combining design and development, there are no promises to be broken. When you show something to the client, it’s already in the browser. It’s already in the final medium. Instead of saying, “we promise to make this,” you’re saying “here’s what we’re making.”</p>\n</blockquote>\n",
+				"content_text": "Clearleft Newsletter, [March 2023 — Promises](https://tinyletter.com/clearleft/letters/march-2023-at-clearleft-promises) 📬\n\n> Making a comp for sign-off is like making a promise. When the finished product doesn’t match the comp, it’s like a promise has been broken.\n\n> By combining design and development, there are no promises to be broken. When you show something to the client, it’s already in the browser. It’s already in the final medium. Instead of saying, “we promise to make this,” you’re saying “here’s what we’re making.”\n",
+				"date_published": "2023-03-29T11:35:35-04:00",
+				"url": "https://log.nick.sh/2023/03/29/promises.html",
+				"tags": ["websites","Link","design"]
+			},
+			{
+				"id": "http://nsmsn.micro.blog/2023/03/28/finished-reading-i.html",
+				
+				"content_html": "<p>Finished reading <a href=\"https://micro.blog/books/9780872865785\">I Must Resist</a>, Bayard Rustin’s Life in Letters 📚</p>\n",
+				"content_text": "Finished reading [I Must Resist](https://micro.blog/books/9780872865785), Bayard Rustin’s Life in Letters 📚\n",
+				"date_published": "2023-03-28T20:09:27-04:00",
+				"url": "https://log.nick.sh/2023/03/28/finished-reading-i.html",
+				"tags": ["books"]
+			},
+			{
+				"id": "http://nsmsn.micro.blog/2023/03/27/checked-and-saw.html",
+				
+				"content_html": "<p>Checked and saw that the mp3s and stencils and everything at <a href=\"http://www.protest-records.com/mp3/index.html\">protest-records.com</a> is still up after all these years (Twenty in fact). 🎵</p>\n",
+				"content_text": "Checked and saw that the mp3s and stencils and everything at [protest-records.com](http://www.protest-records.com/mp3/index.html) is still up after all these years (Twenty in fact). 🎵\n",
+				"date_published": "2023-03-27T12:01:42-04:00",
+				"url": "https://log.nick.sh/2023/03/27/checked-and-saw.html",
+				"tags": ["music","politics"]
+			},
+			{
+				"id": "http://nsmsn.micro.blog/2023/03/20/quick-programming-note.html",
+				
+				"content_html": "<p>Quick programming note: If you subscribe to my microblog with RSS, you may want to update your feed to this address: <a href=\"https://log.nick.sh/feed.xml\">log.nick.sh/feed.xml</a></p>\n\n<p>That&rsquo;s correct: I&rsquo;m changing the microblog domain. Next step: figuring out redirects. <a href=\"https://www.w3.org/Provider/Style/URI\">Cool URIs don&rsquo;t change</a>, but nobody ever accused me of being cool.</p>\n",
+				"content_text": "Quick programming note: If you subscribe to my microblog with RSS, you may want to update your feed to this address: [log.nick.sh/feed.xml](https://log.nick.sh/feed.xml)\n\nThat's correct: I'm changing the microblog domain. Next step: figuring out redirects. [Cool URIs don't change](https://www.w3.org/Provider/Style/URI), but nobody ever accused me of being cool.\n",
+				"date_published": "2023-03-20T11:54:35-04:00",
+				"url": "https://log.nick.sh/2023/03/20/quick-programming-note.html",
+				"tags": ["this site"]
+			},
+			{
 				"id": "http://nsmsn.micro.blog/2023/03/19/fortesa-latifi-influencer.html",
 				
 				"content_html": "<p>Fortesa Latifi: <a href=\"https://www.teenvogue.com/story/influencer-parents-children-social-media-impact\">Influencer Parents and Their Children Are Rethinking Growing Up On Social Media</a></p>\n",
@@ -18,8 +80,8 @@
 			{
 				"id": "http://nsmsn.micro.blog/2023/03/19/i-got-a.html",
 				"title": "Use your powers wisely, and enjoy!",
-				"content_html": "<p>I got a notification this morning that my application to join the <a href=\"https://literal.club/pages/librarian\">Literal Librarian</a> program was approved.</p>\n\n<p><a href=\"https://literal.club/\">Literal</a> is one of numerous Goodreads alternatives that have launched in the past several years. I&rsquo;ve been using it since May 2021 (in beta). I also use the Bookshelves feature in Micro.blog with the Epilogue app for iOS to track my reading. Micro.blog automatically posts to my Mastodon account, so I guess I use that too.</p>\n\n<p>The CMS powering Literal&rsquo;s book data is quite snappy, and I&rsquo;ve managed to upload a couple covers and add page count to a few editions already. The message that greets you in the CMS dashboard is &ldquo;Use your powers wisely, and enjoy!&rdquo;</p>\n\n<p><img src=\"uploads/2023/bcf43b91cd.png\" width=\"600\" height=\"267\" alt=\"Literal CMS dashboard with simple instructions.\"></p>\n",
-				"content_text": "I got a notification this morning that my application to join the [Literal Librarian](https://literal.club/pages/librarian) program was approved. \n\n[Literal](https://literal.club/) is one of numerous Goodreads alternatives that have launched in the past several years. I've been using it since May 2021 (in beta). I also use the Bookshelves feature in Micro.blog with the Epilogue app for iOS to track my reading. Micro.blog automatically posts to my Mastodon account, so I guess I use that too.\n\nThe CMS powering Literal's book data is quite snappy, and I've managed to upload a couple covers and add page count to a few editions already. The message that greets you in the CMS dashboard is \"Use your powers wisely, and enjoy!\"\n\n<img src=\"uploads/2023/bcf43b91cd.png\" width=\"600\" height=\"267\" alt=\"Literal CMS dashboard with simple instructions.\">\n",
+				"content_html": "<p>I got a notification this morning that my application to join the <a href=\"https://literal.club/pages/librarian\">Literal Librarian</a> program was approved.</p>\n\n<p><a href=\"https://literal.club/\">Literal</a> is one of numerous Goodreads alternatives that have launched in the past several years. I&rsquo;ve been using it since May 2021 (in beta). I also use the Bookshelves feature in Micro.blog with the Epilogue app for iOS to track my reading. Micro.blog automatically posts to my Mastodon account, so I guess I use that too.</p>\n\n<p>The CMS powering Literal&rsquo;s book data is quite snappy, and I&rsquo;ve managed to upload a couple covers and add page count to a few editions already. The message that greets you in the CMS dashboard is &ldquo;Use your powers wisely, and enjoy!&rdquo;</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/67476/2023/bcf43b91cd.png\" width=\"600\" height=\"267\" alt=\"Literal CMS dashboard with simple instructions.\"></p>\n",
+				"content_text": "I got a notification this morning that my application to join the [Literal Librarian](https://literal.club/pages/librarian) program was approved. \n\n[Literal](https://literal.club/) is one of numerous Goodreads alternatives that have launched in the past several years. I've been using it since May 2021 (in beta). I also use the Bookshelves feature in Micro.blog with the Epilogue app for iOS to track my reading. Micro.blog automatically posts to my Mastodon account, so I guess I use that too.\n\nThe CMS powering Literal's book data is quite snappy, and I've managed to upload a couple covers and add page count to a few editions already. The message that greets you in the CMS dashboard is \"Use your powers wisely, and enjoy!\"\n\n<img src=\"https://cdn.uploads.micro.blog/67476/2023/bcf43b91cd.png\" width=\"600\" height=\"267\" alt=\"Literal CMS dashboard with simple instructions.\">\n",
 				"date_published": "2023-03-19T10:59:51-04:00",
 				"url": "https://log.nick.sh/2023/03/19/i-got-a.html",
 				"tags": ["social media","books","technology"]
