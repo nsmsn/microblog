@@ -7,6 +7,23 @@
 	"items": [
 		
 			{
+				"id": "http://nsmsn.micro.blog/2023/04/07/listening-to-marquee.html",
+				
+				"content_html": "<p>Listening to <a href=\"https://www.discogs.com/master/6202-Television-Marquee-Moon\">Marquee Moon by Television</a> again 🎶🎵</p>\n\n<p>The title track is incredible of course, but this is also one of those “flawless side one” albums for me.</p>\n",
+				"content_text": "Listening to [Marquee Moon by Television](https://www.discogs.com/master/6202-Television-Marquee-Moon) again 🎶🎵\n\nThe title track is incredible of course, but this is also one of those “flawless side one” albums for me.\n",
+				"date_published": "2023-04-07T08:52:24-04:00",
+				"url": "https://log.nick.sh/2023/04/07/listening-to-marquee.html",
+				"tags": ["music"]
+			},
+			{
+				"id": "http://nsmsn.micro.blog/2023/04/05/did-someone-order.html",
+				
+				"content_html": "<p>Did someone order a tiny Gateway computer?</p>\n\n<p><img src=\"uploads/2023/c52565be42.jpg\" width=\"600\" height=\"600\" alt=\"A small cowhide print box in the palm of someone’s hand\"></p>\n",
+				"content_text": "Did someone order a tiny Gateway computer?\n\n<img src=\"uploads/2023/c52565be42.jpg\" width=\"600\" height=\"600\" alt=\"A small cowhide print box in the palm of someone’s hand\">\n",
+				"date_published": "2023-04-05T17:39:23-04:00",
+				"url": "https://log.nick.sh/2023/04/05/did-someone-order.html"
+			},
+			{
 				"id": "http://nsmsn.micro.blog/2023/04/01/baby-bookworm.html",
 				
 				"content_html": "<p>Baby bookworm 📚</p>\n\n<p><img src=\"uploads/2023/f489a6d77d.jpg\" width=\"600\" height=\"600\" alt=\"A baby in an orange cardigan sweater looks at an open picture book in her lap.\"></p>\n",
