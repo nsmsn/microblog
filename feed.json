@@ -7,6 +7,32 @@
 	"items": [
 		
 			{
+				"id": "http://nsmsn.micro.blog/2023/05/17/finished-reading-virtue.html",
+				
+				"content_html": "<p>Finished reading <a href=\"https://micro.blog/books/9781452966045\">Virtue Hoarders</a> by Catherine Liu 📚</p>\n",
+				"content_text": "Finished reading [Virtue Hoarders](https://micro.blog/books/9781452966045) by Catherine Liu 📚\n",
+				"date_published": "2023-05-17T18:19:58-04:00",
+				"url": "https://log.nick.sh/2023/05/17/finished-reading-virtue.html"
+			},
+			{
+				"id": "http://nsmsn.micro.blog/2023/05/13/started-reading-virtue.html",
+				
+				"content_html": "<p>Started reading <a href=\"https://micro.blog/books/9781452966045\">Virtue Hoarders</a> by Catherine Liu 📚</p>\n",
+				"content_text": "Started reading [Virtue Hoarders](https://micro.blog/books/9781452966045) by Catherine Liu 📚\n",
+				"date_published": "2023-05-13T21:54:48-04:00",
+				"url": "https://log.nick.sh/2023/05/13/started-reading-virtue.html",
+				"tags": ["books"]
+			},
+			{
+				"id": "http://nsmsn.micro.blog/2023/05/09/nice-to-see.html",
+				
+				"content_html": "<p>Nice to see a spotlight on Jim O&rsquo;Rourke&rsquo;s music featured in Bandcamp Daily: <a href=\"https://daily.bandcamp.com/lists/jim-orourke-album-guide\">daily.bandcamp.com/lists/jim&hellip;</a> 🎵</p>\n",
+				"content_text": "Nice to see a spotlight on Jim O'Rourke's music featured in Bandcamp Daily: [daily.bandcamp.com/lists/jim...](https://daily.bandcamp.com/lists/jim-orourke-album-guide) 🎵\n",
+				"date_published": "2023-05-09T18:31:00-04:00",
+				"url": "https://log.nick.sh/2023/05/09/nice-to-see.html",
+				"tags": ["music"]
+			},
+			{
 				"id": "http://nsmsn.micro.blog/2023/05/01/im-looking-for.html",
 				
 				"content_html": "<p>I’m looking for a good entry point to Star Trek: I’ve never really watched any of the various series or movies before. People tell me TNG is good. What’s a good season or episode to start with? 🖖📺</p>\n",
