@@ -7,6 +7,42 @@
 	"items": [
 		
 			{
+				"id": "http://nsmsn.micro.blog/2023/05/27/want-to-read.html",
+				
+				"content_html": "<p>Want to read <a href=\"https://micro.blog/books/9781804291672\">After Black Lives Matter</a> by Cedric Johnson 📚</p>\n\n<p>Johnson was on a recent <a href=\"https://newbooksnetwork.com/cedric-johnson-after-black-lives-matter-policing-and-anti-capitalist-struggle-verso-2023\">New Books Network podcast</a> to talk about his new book on policing and anti-capitalist struggle.🎙️ At the end he also talks about some of the interesting work he&rsquo;s doing as an urbanist studying the Olympic Games in Los Angeles ahead of the 2028 Games.</p>\n",
+				"content_text": "Want to read [After Black Lives Matter](https://micro.blog/books/9781804291672) by Cedric Johnson 📚\r\n\r\nJohnson was on a recent [New Books Network podcast](https://newbooksnetwork.com/cedric-johnson-after-black-lives-matter-policing-and-anti-capitalist-struggle-verso-2023) to talk about his new book on policing and anti-capitalist struggle.🎙️ At the end he also talks about some of the interesting work he's doing as an urbanist studying the Olympic Games in Los Angeles ahead of the 2028 Games.\n",
+				"date_published": "2023-05-27T19:31:17-04:00",
+				"url": "https://log.nick.sh/2023/05/27/want-to-read.html",
+				"tags": ["Link","books"]
+			},
+			{
+				"id": "http://nsmsn.micro.blog/2023/05/23/reason-to-love.html",
+				
+				"content_html": "<p>Reason #1,461 to love Micro.blog:</p>\n\n<p>A small feature I requested on Monday (alpha sorted categories) made it into production by Tuesday evening.</p>\n\n<p><a href=\"https://help.micro.blog/t/feature-request-sorting-categories/1792\">help.micro.blog/t/feature&hellip;</a></p>\n\n<p><img src=\"uploads/2023/fb27eaf6fe.png\" width=\"600\" height=\"370\" alt=\"screenshot of the Micro.blog post editor with category options sorted alphabetically\"></p>\n",
+				"content_text": "Reason #1,461 to love Micro.blog:\r\n\r\nA small feature I requested on Monday (alpha sorted categories) made it into production by Tuesday evening. \r\n\r\n[help.micro.blog/t/feature...](https://help.micro.blog/t/feature-request-sorting-categories/1792)\n\n<img src=\"uploads/2023/fb27eaf6fe.png\" width=\"600\" height=\"370\" alt=\"screenshot of the Micro.blog post editor with category options sorted alphabetically\">\n",
+				"date_published": "2023-05-23T21:54:01-04:00",
+				"url": "https://log.nick.sh/2023/05/23/reason-to-love.html",
+				"tags": ["this site","social media"]
+			},
+			{
+				"id": "http://nsmsn.micro.blog/2023/05/23/i-set-up.html",
+				
+				"content_html": "<p>I set up an account on last.fm today so I can keep track of all the great music I listen to while I wash the dishes. <a href=\"https://www.last.fm/user/nsmsn\">www.last.fm/user/nsms&hellip;</a></p>\n\n<p>More to come. 🎵</p>\n",
+				"content_text": "I set up an account on last.fm today so I can keep track of all the great music I listen to while I wash the dishes. [www.last.fm/user/nsms...](https://www.last.fm/user/nsmsn)\n\nMore to come. 🎵\n",
+				"date_published": "2023-05-23T18:55:44-04:00",
+				"url": "https://log.nick.sh/2023/05/23/i-set-up.html",
+				"tags": ["music"]
+			},
+			{
+				"id": "http://nsmsn.micro.blog/2023/05/23/discovered-these-potato.html",
+				
+				"content_html": "<p>Discovered <a href=\"https://thebasketry.com/products/zapps-voodoo-potato-chips\">these potato chips</a> at the supermarket recently. Nice flavor in between both salt and vinegar and BBQ chips. 4/5 would recommend.</p>\n",
+				"content_text": "Discovered [these potato chips](https://thebasketry.com/products/zapps-voodoo-potato-chips) at the supermarket recently. Nice flavor in between both salt and vinegar and BBQ chips. 4/5 would recommend.\n",
+				"date_published": "2023-05-23T12:56:08-04:00",
+				"url": "https://log.nick.sh/2023/05/23/discovered-these-potato.html",
+				"tags": ["food"]
+			},
+			{
 				"id": "http://nsmsn.micro.blog/2023/05/22/founders-grotesk-iowan.html",
 				
 				"content_html": "<p>Founders Grotesk + Iowan Old Style + system-ui.</p>\n\n<p>Playing around with custom CSS and the Tiny theme for Micro.blog by <a href=\"https://micro.blog/Mtt\">@Mtt</a>.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/67476/2023/95b56f0422.png\" width=\"526\" height=\"600\" alt=\"a webpage with a creamy tan background, red hyperlinks, and chocolatey brown headings and text\"></p>\n",
@@ -27,8 +63,8 @@
 			{
 				"id": "http://nsmsn.micro.blog/2023/05/22/founders-grotesk-condensed.html",
 				
-				"content_html": "<p>Founders Grotesk Condensed + Iowan Old Style + system-ui + SF Mono</p>\n\n<p><img src=\"uploads/2023/95b56f0422.png\" width=\"526\" height=\"600\" alt=\"a webpage with a creamy tan background, red hyperlinks, and chocolatey brown headings and text\"></p>\n\n<p>Playing around with custom CSS and the Tiny theme for Micro.blog by <a href=\"https://micro.blog/Mtt\">@Mtt</a>.</p>\n",
-				"content_text": "Founders Grotesk Condensed + Iowan Old Style + system-ui + SF Mono\n\n<img src=\"uploads/2023/95b56f0422.png\" width=\"526\" height=\"600\" alt=\"a webpage with a creamy tan background, red hyperlinks, and chocolatey brown headings and text\">\n\nPlaying around with custom CSS and the Tiny theme for Micro.blog by [@Mtt](https://micro.blog/Mtt).\n",
+				"content_html": "<p>Founders Grotesk Condensed + Iowan Old Style + system-ui + SF Mono</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/67476/2023/95b56f0422.png\" width=\"526\" height=\"600\" alt=\"a webpage with a creamy tan background, red hyperlinks, and chocolatey brown headings and text\"></p>\n\n<p>Playing around with custom CSS and the Tiny theme for Micro.blog by <a href=\"https://micro.blog/Mtt\">@Mtt</a>.</p>\n",
+				"content_text": "Founders Grotesk Condensed + Iowan Old Style + system-ui + SF Mono\n\n<img src=\"https://cdn.uploads.micro.blog/67476/2023/95b56f0422.png\" width=\"526\" height=\"600\" alt=\"a webpage with a creamy tan background, red hyperlinks, and chocolatey brown headings and text\">\n\nPlaying around with custom CSS and the Tiny theme for Micro.blog by [@Mtt](https://micro.blog/Mtt).\n",
 				"date_published": "2023-05-22T16:57:00-04:00",
 				"url": "https://log.nick.sh/2023/05/22/founders-grotesk-condensed.html",
 				"tags": ["social media","design","type"]
