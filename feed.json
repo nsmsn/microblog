@@ -7,10 +7,54 @@
 	"items": [
 		
 			{
+				"id": "http://nsmsn.micro.blog/2023/06/01/once-in-a.html",
+				
+				"content_html": "<p>Once in a while I still see a great website design with a &ldquo;Site by &hellip;&rdquo; link in the footer. Or a <a href=\"https://humanstxt.org/\">humans.txt</a> file. Or both!</p>\n\n<p>I love seeing these things, especially in 2023 amidst all the AI hype. The web is created by people, for people.</p>\n",
+				"content_text": "Once in a while I still see a great website design with a \"Site by ...\" link in the footer. Or a [humans.txt](https://humanstxt.org/) file. Or both! \r\n\r\nI love seeing these things, especially in 2023 amidst all the AI hype. The web is created by people, for people.\n",
+				"date_published": "2023-06-01T21:25:19-04:00",
+				"url": "https://log.nick.sh/2023/06/01/once-in-a.html",
+				"tags": ["websites"]
+			},
+			{
+				"id": "http://nsmsn.micro.blog/2023/05/31/amy-hupe-has.html",
+				
+				"content_html": "<p>Amy Hupe has a new podcast called <a href=\"https://systems-of-harm.fireside.fm/\">Systems of Harm</a>, which examines ways to design more inclusive digital products. 🎙️</p>\n\n<p>Episode topics so far have included cognitive biases, trans exclusion, and dyscalculia.</p>\n",
+				"content_text": "Amy Hupe has a new podcast called [Systems of Harm](https://systems-of-harm.fireside.fm/), which examines ways to design more inclusive digital products. 🎙️\n\nEpisode topics so far have included cognitive biases, trans exclusion, and dyscalculia.\n",
+				"date_published": "2023-05-31T09:10:10-04:00",
+				"url": "https://log.nick.sh/2023/05/31/amy-hupe-has.html",
+				"tags": ["accessibility","design","technology"]
+			},
+			{
+				"id": "http://nsmsn.micro.blog/2023/05/29/weve-created-a.html",
+				
+				"content_html": "<blockquote>\n<p>We&rsquo;ve created a way of working where the digital maker community (including its leaders) is addicted to speed in design and deployment but largely averse to, and largely ill-equipped to deal with the consequences of this pace. Where we are is a natural right-on-time symptom of the adolescent phase of our industry. And it&rsquo;s time to grow up.</p>\n</blockquote>\n\n<p>Lisa Welchman, writing earlier this year on <a href=\"https://mindfulweb.substack.com/p/maturing-the-culture-of-digital\">maturing the culture of digital</a>.</p>\n",
+				"content_text": "> We've created a way of working where the digital maker community (including its leaders) is addicted to speed in design and deployment but largely averse to, and largely ill-equipped to deal with the consequences of this pace. Where we are is a natural right-on-time symptom of the adolescent phase of our industry. And it's time to grow up.\n\nLisa Welchman, writing earlier this year on [maturing the culture of digital](https://mindfulweb.substack.com/p/maturing-the-culture-of-digital).\n",
+				"date_published": "2023-05-29T10:13:43-04:00",
+				"url": "https://log.nick.sh/2023/05/29/weve-created-a.html",
+				"tags": ["design","technology"]
+			},
+			{
+				"id": "http://nsmsn.micro.blog/2023/05/28/to-add-insult.html",
+				
+				"content_html": "<blockquote>\n<p>To add insult to injury, last fall, AT&amp;T internet service across Hope Village [in Detroit] went down for 45 days before being restored.</p>\n</blockquote>\n\n<p>The Markup’s latest <a href=\"https://themarkup.org/still-loading/2022/10/19/dollars-to-megabits-you-may-be-paying-400-times-as-much-as-your-neighbor-for-internet-service\">article on broadband disparity in cities throughout the U.S.</a> is infuriating and worth your attention.</p>\n",
+				"content_text": "> To add insult to injury, last fall, AT&T internet service across Hope Village [in Detroit] went down for 45 days before being restored.\n\nThe Markup’s latest [article on broadband disparity in cities throughout the U.S.](https://themarkup.org/still-loading/2022/10/19/dollars-to-megabits-you-may-be-paying-400-times-as-much-as-your-neighbor-for-internet-service) is infuriating and worth your attention.\n",
+				"date_published": "2023-05-28T09:34:49-04:00",
+				"url": "https://log.nick.sh/2023/05/28/to-add-insult.html"
+			},
+			{
+				"id": "http://nsmsn.micro.blog/2023/05/28/initially-we-turned.html",
+				
+				"content_html": "<blockquote>\n<p>“Initially we turned to Mapbox, an established leader for generating and publishing online maps. But when we embedded a map from Mapbox on our staging website, we found it assigned a tracker that could not be disabled without violating Mapbox’s terms of service.”</p>\n</blockquote>\n\n<p>The Markup explains how they built an  <a href=\"https://themarkup.org/hello-world/2023/05/27/our-maps-dont-know-where-you-are\">interactive mapping tool that respects your privacy</a>.</p>\n",
+				"content_text": "> “Initially we turned to Mapbox, an established leader for generating and publishing online maps. But when we embedded a map from Mapbox on our staging website, we found it assigned a tracker that could not be disabled without violating Mapbox’s terms of service.”\n\nThe Markup explains how they built an  [interactive mapping tool that respects your privacy](https://themarkup.org/hello-world/2023/05/27/our-maps-dont-know-where-you-are).\n",
+				"date_published": "2023-05-28T08:21:50-04:00",
+				"url": "https://log.nick.sh/2023/05/28/initially-we-turned.html",
+				"tags": ["websites","Link","technology"]
+			},
+			{
 				"id": "http://nsmsn.micro.blog/2023/05/27/want-to-read.html",
 				
-				"content_html": "<p>Want to read <a href=\"https://micro.blog/books/9781804291672\">After Black Lives Matter</a> by Cedric Johnson 📚</p>\n\n<p>Johnson was on a recent <a href=\"https://newbooksnetwork.com/cedric-johnson-after-black-lives-matter-policing-and-anti-capitalist-struggle-verso-2023\">New Books Network podcast</a> to talk about his new book on policing and anti-capitalist struggle.🎙️ At the end he also talks about some of the interesting work he&rsquo;s doing as an urbanist studying the Olympic Games in Los Angeles ahead of the 2028 Games.</p>\n",
-				"content_text": "Want to read [After Black Lives Matter](https://micro.blog/books/9781804291672) by Cedric Johnson 📚\r\n\r\nJohnson was on a recent [New Books Network podcast](https://newbooksnetwork.com/cedric-johnson-after-black-lives-matter-policing-and-anti-capitalist-struggle-verso-2023) to talk about his new book on policing and anti-capitalist struggle.🎙️ At the end he also talks about some of the interesting work he's doing as an urbanist studying the Olympic Games in Los Angeles ahead of the 2028 Games.\n",
+				"content_html": "<p>Want to read <a href=\"https://micro.blog/books/9781804291672\">After Black Lives Matter</a> by Cedric Johnson 📚</p>\n\n<p>Johnson was on a recent <a href=\"https://newbooksnetwork.com/cedric-johnson-after-black-lives-matter-policing-and-anti-capitalist-struggle-verso-2023\">New Books Network podcast</a> to talk about his new book on policing and anti-capitalist struggle.🎙️ At the end of the podcast, he has a chance to discuss some of the interesting work he’s doing as an urbanist studying the Olympic Games in Los Angeles ahead of the 2028 Games.</p>\n",
+				"content_text": "Want to read [After Black Lives Matter](https://micro.blog/books/9781804291672) by Cedric Johnson 📚\n\nJohnson was on a recent [New Books Network podcast](https://newbooksnetwork.com/cedric-johnson-after-black-lives-matter-policing-and-anti-capitalist-struggle-verso-2023) to talk about his new book on policing and anti-capitalist struggle.🎙️ At the end of the podcast, he has a chance to discuss some of the interesting work he’s doing as an urbanist studying the Olympic Games in Los Angeles ahead of the 2028 Games.\n",
 				"date_published": "2023-05-27T19:31:17-04:00",
 				"url": "https://log.nick.sh/2023/05/27/want-to-read.html",
 				"tags": ["Link","books"]
@@ -18,8 +62,8 @@
 			{
 				"id": "http://nsmsn.micro.blog/2023/05/23/reason-to-love.html",
 				
-				"content_html": "<p>Reason #1,461 to love Micro.blog:</p>\n\n<p>A small feature I requested on Monday (alpha sorted categories) made it into production by Tuesday evening.</p>\n\n<p><a href=\"https://help.micro.blog/t/feature-request-sorting-categories/1792\">help.micro.blog/t/feature&hellip;</a></p>\n\n<p><img src=\"uploads/2023/fb27eaf6fe.png\" width=\"600\" height=\"370\" alt=\"screenshot of the Micro.blog post editor with category options sorted alphabetically\"></p>\n",
-				"content_text": "Reason #1,461 to love Micro.blog:\r\n\r\nA small feature I requested on Monday (alpha sorted categories) made it into production by Tuesday evening. \r\n\r\n[help.micro.blog/t/feature...](https://help.micro.blog/t/feature-request-sorting-categories/1792)\n\n<img src=\"uploads/2023/fb27eaf6fe.png\" width=\"600\" height=\"370\" alt=\"screenshot of the Micro.blog post editor with category options sorted alphabetically\">\n",
+				"content_html": "<p>Reason #1,461 to love Micro.blog:</p>\n\n<p>A small feature I requested on Monday (alpha sorted categories) made it into production by Tuesday evening.</p>\n\n<p><a href=\"https://help.micro.blog/t/feature-request-sorting-categories/1792\">help.micro.blog/t/feature&hellip;</a></p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/67476/2023/fb27eaf6fe.png\" width=\"600\" height=\"370\" alt=\"screenshot of the Micro.blog post editor with category options sorted alphabetically\"></p>\n",
+				"content_text": "Reason #1,461 to love Micro.blog:\r\n\r\nA small feature I requested on Monday (alpha sorted categories) made it into production by Tuesday evening. \r\n\r\n[help.micro.blog/t/feature...](https://help.micro.blog/t/feature-request-sorting-categories/1792)\n\n<img src=\"https://cdn.uploads.micro.blog/67476/2023/fb27eaf6fe.png\" width=\"600\" height=\"370\" alt=\"screenshot of the Micro.blog post editor with category options sorted alphabetically\">\n",
 				"date_published": "2023-05-23T21:54:01-04:00",
 				"url": "https://log.nick.sh/2023/05/23/reason-to-love.html",
 				"tags": ["this site","social media"]
@@ -41,15 +85,6 @@
 				"date_published": "2023-05-23T12:56:08-04:00",
 				"url": "https://log.nick.sh/2023/05/23/discovered-these-potato.html",
 				"tags": ["food"]
-			},
-			{
-				"id": "http://nsmsn.micro.blog/2023/05/22/founders-grotesk-iowan.html",
-				
-				"content_html": "<p>Founders Grotesk + Iowan Old Style + system-ui.</p>\n\n<p>Playing around with custom CSS and the Tiny theme for Micro.blog by <a href=\"https://micro.blog/Mtt\">@Mtt</a>.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/67476/2023/95b56f0422.png\" width=\"526\" height=\"600\" alt=\"a webpage with a creamy tan background, red hyperlinks, and chocolatey brown headings and text\"></p>\n",
-				"content_text": "Founders Grotesk + Iowan Old Style + system-ui. \n\nPlaying around with custom CSS and the Tiny theme for Micro.blog by [@Mtt](https://micro.blog/Mtt).\n\n<img src=\"https://cdn.uploads.micro.blog/67476/2023/95b56f0422.png\" width=\"526\" height=\"600\" alt=\"a webpage with a creamy tan background, red hyperlinks, and chocolatey brown headings and text\">\n",
-				"date_published": "2023-05-22T18:25:00-04:00",
-				"url": "https://log.nick.sh/2023/05/22/founders-grotesk-iowan.html",
-				"tags": ["social media","design","type"]
 			},
 			{
 				"id": "http://nsmsn.micro.blog/2023/05/22/want-to-read.html",
