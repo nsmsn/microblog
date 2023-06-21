@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://nsmsn.micro.blog/2023/06/21/finally-moved-in.html",
+				
+				"content_html": "<p>Finally moved in to our new place this week. This view from the backyard may be my favorite feature of the home.</p>\n\n<p><img src=\"uploads/2023/image.jpg\" width=\"450\" height=\"600\" alt=\"A view of the Sandia Mountains over a brick wall covered with trumpet flowers and sagebrush\"></p>\n",
+				"content_text": "Finally moved in to our new place this week. This view from the backyard may be my favorite feature of the home.\n\n<img src=\"uploads/2023/image.jpg\" width=\"450\" height=\"600\" alt=\"A view of the Sandia Mountains over a brick wall covered with trumpet flowers and sagebrush\">\n",
+				"date_published": "2023-06-21T19:24:03-04:00",
+				"url": "https://log.nick.sh/2023/06/21/finally-moved-in.html"
+			},
+			{
 				"id": "http://nsmsn.micro.blog/2023/06/14/want-to-read.html",
 				
 				"content_html": "<p>Want to read: <a href=\"https://micro.blog/books/9781501708176\">The One Percent Solution</a> by Gordon Lafer 📚</p>\n",
