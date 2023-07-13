@@ -7,6 +7,42 @@
 	"items": [
 		
 			{
+				"id": "http://nsmsn.micro.blog/2023/07/13/finished-reading-girl.html",
+				
+				"content_html": "<p>Finished reading <a href=\"https://micro.blog/books/9780062295903\">Girl in a Band</a> by Kim Gordon 📚</p>\n",
+				"content_text": "Finished reading [Girl in a Band](https://micro.blog/books/9780062295903) by Kim Gordon 📚\n",
+				"date_published": "2023-07-13T04:21:04-04:00",
+				"url": "https://log.nick.sh/2023/07/13/finished-reading-girl.html",
+				"tags": ["books"]
+			},
+			{
+				"id": "http://nsmsn.micro.blog/2023/07/07/design-systems-need.html",
+				
+				"content_html": "<blockquote>\n<p>&ldquo;Design systems need to guide people to the right option. They can&rsquo;t just provide tons and tons of options to people&rdquo;</p>\n</blockquote>\n\n<p>Scott Kellum&rsquo;s talk <a href=\"https://www.youtube.com/watch?v=g9hlJ69ZO1A\">&ldquo;Mapping Typography&rdquo; at CSS Cafe</a></p>\n",
+				"content_text": "> \"Design systems need to guide people to the right option. They can't just provide tons and tons of options to people\"\n\nScott Kellum's talk [\"Mapping Typography\" at CSS Cafe](https://www.youtube.com/watch?v=g9hlJ69ZO1A)\n",
+				"date_published": "2023-07-07T11:31:38-04:00",
+				"url": "https://log.nick.sh/2023/07/07/design-systems-need.html",
+				"tags": ["design","web platform","type"]
+			},
+			{
+				"id": "http://nsmsn.micro.blog/2023/07/06/started-reading-girl.html",
+				
+				"content_html": "<p>Started reading <a href=\"https://micro.blog/books/9780062295903\">Girl in a Band</a> by Kim Gordon 📚</p>\n\n<p>Listening to the audiobook version, read by the author.</p>\n",
+				"content_text": "Started reading [Girl in a Band](https://micro.blog/books/9780062295903) by Kim Gordon 📚\n\nListening to the audiobook version, read by the author.\n",
+				"date_published": "2023-07-06T18:23:36-04:00",
+				"url": "https://log.nick.sh/2023/07/06/started-reading-girl.html",
+				"tags": ["books"]
+			},
+			{
+				"id": "http://nsmsn.micro.blog/2023/07/04/one-year-for.html",
+				
+				"content_html": "<p>One year for my dad’s birthday I sent him a <a href=\"https://www.pickpunch.com/\">pick punch</a>: a fun way to recycle old plastic cards into guitar picks.</p>\n\n<p>I was unpacking some of my dad’s music stuff my mom sent me this week. So here’s Dad and I (age 16 first driver license photo) immortalized as guitar picks now.</p>\n\n<p><img src=\"uploads/2023/772a50c5a4.jpg\" width=\"600\" height=\"450\" alt=\"Driver’s license photos of a middle aged man and a teenage boy cut into guitar pick shapes.\"></p>\n",
+				"content_text": "One year for my dad’s birthday I sent him a [pick punch](https://www.pickpunch.com/): a fun way to recycle old plastic cards into guitar picks. \n\nI was unpacking some of my dad’s music stuff my mom sent me this week. So here’s Dad and I (age 16 first driver license photo) immortalized as guitar picks now.\n\n<img src=\"uploads/2023/772a50c5a4.jpg\" width=\"600\" height=\"450\" alt=\"Driver’s license photos of a middle aged man and a teenage boy cut into guitar pick shapes.\">\n",
+				"date_published": "2023-07-04T22:15:53-04:00",
+				"url": "https://log.nick.sh/2023/07/04/one-year-for.html",
+				"tags": ["personal","music"]
+			},
+			{
 				"id": "http://nsmsn.micro.blog/2023/07/04/my-little-one.html",
 				
 				"content_html": "<p>My little one, who turns 16 months today, has started saying the dog’s name, in addition to “mama” and “daddy”. 🐶</p>\n",
