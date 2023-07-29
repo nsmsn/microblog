@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://nsmsn.micro.blog/2023/07/29/his-project-is.html",
+				
+				"content_html": "<blockquote>\n<p>His project is so vast that it can only be compared to, say, the construction of the Oxford English Dictionary.</p>\n</blockquote>\n\n<p>Bill McKibben highlighted the wonderful &lsquo;<a href=\"https://500songs.com/\">A History of Rock Music in 500 Songs</a>&rsquo; podcast for <a href=\"https://www.newyorker.com/culture/podcast-dept/a-music-podcast-unlike-any-other\">the New Yorker this week</a>. 🎙️</p>\n",
+				"content_text": "> His project is so vast that it can only be compared to, say, the construction of the Oxford English Dictionary.\r\n\r\nBill McKibben highlighted the wonderful '[A History of Rock Music in 500 Songs](https://500songs.com/)' podcast for [the New Yorker this week](https://www.newyorker.com/culture/podcast-dept/a-music-podcast-unlike-any-other). 🎙️\n",
+				"date_published": "2023-07-29T14:55:00-04:00",
+				"url": "https://log.nick.sh/2023/07/29/his-project-is.html",
+				"tags": ["music"]
+			},
+			{
+				"id": "http://nsmsn.micro.blog/2023/07/24/started-reading-the.html",
+				
+				"content_html": "<p>Started reading <a href=\"https://micro.blog/books/9780300252392\">The Atlas of AI</a> by Kate Crawford 📚</p>\n",
+				"content_text": "Started reading [The Atlas of AI](https://micro.blog/books/9780300252392) by Kate Crawford 📚\n",
+				"date_published": "2023-07-24T10:05:04-04:00",
+				"url": "https://log.nick.sh/2023/07/24/started-reading-the.html",
+				"tags": ["books"]
+			},
+			{
 				"id": "http://nsmsn.micro.blog/2023/07/20/havent-seen-oppenheimer.html",
 				
 				"content_html": "<p>Haven&rsquo;t seen &lsquo;Oppenheimer&rsquo; yet, but I have been using <a href=\"https://neil.computer/notes/quantum-lorem-ipsum/\">Quantum Lorem Ipsum</a> a lot lately.</p>\n",
