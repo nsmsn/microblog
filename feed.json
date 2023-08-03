@@ -7,10 +7,46 @@
 	"items": [
 		
 			{
+				"id": "http://nsmsn.micro.blog/2023/08/03/so-much-of.html",
+				
+				"content_html": "<blockquote>\n<p>So much of my work focuses on scale, so I wanted to explicitly work on a side project which doesn’t scale at all. It’s just me sharing ideas and seeing what’s helpful. No AI recommendations here, just some good old HI—Human Intelligence.</p>\n</blockquote>\n\n<p>Bookmarked <a href=\"https://maketypework.com/\">Make Type Work</a>: Tips &amp; tricks to level up your type game in 2023.</p>\n",
+				"content_text": "> So much of my work focuses on scale, so I wanted to explicitly work on a side project which doesn’t scale at all. It’s just me sharing ideas and seeing what’s helpful. No AI recommendations here, just some good old HI—Human Intelligence.\r\n\r\nBookmarked [Make Type Work](https://maketypework.com/): Tips & tricks to level up your type game in 2023.\n",
+				"date_published": "2023-08-03T17:01:08-04:00",
+				"url": "https://log.nick.sh/2023/08/03/so-much-of.html",
+				"tags": ["websites","design","type"]
+			},
+			{
+				"id": "http://nsmsn.micro.blog/2023/08/02/my-new-license.html",
+				
+				"content_html": "<p>My new license plate arrived in the mail today and the first three characters on it are RSS (this is not a vanity plate).</p>\n\n<p><img src=\"uploads/2023/f4fe52aa78.jpg\" width=\"579\" height=\"600\" alt=\"A turquoise New Mexico license plate. The first three characters are RSS.\"></p>\n",
+				"content_text": "My new license plate arrived in the mail today and the first three characters on it are RSS (this is not a vanity plate).\n\n<img src=\"uploads/2023/f4fe52aa78.jpg\" width=\"579\" height=\"600\" alt=\"A turquoise New Mexico license plate. The first three characters are RSS.\">\n",
+				"date_published": "2023-08-02T18:09:21-04:00",
+				"url": "https://log.nick.sh/2023/08/02/my-new-license.html",
+				"tags": ["IndieWeb","personal"]
+			},
+			{
+				"id": "http://nsmsn.micro.blog/2023/08/02/the-web-would.html",
+				
+				"content_html": "<blockquote>\n<p>The web would be a much better place if fullstack, framework-focused developers used Learn HTML to better understand the basics, but we all can learn something from the course. Course creator Estelle Weyl noted that the course was targeted towards beginners, but created for all skill levels, including &lsquo;super-advanced people who don’t realize that they don’t know things&rsquo;. Indeed.</p>\n</blockquote>\n\n<p>In case you missed it, check out <a href=\"https://danabyerly.com/tag/hot-html-summer/\">Hot HTML Summer</a>, Dana Byerly&rsquo;s blog series on the web.dev Learn HTML course.</p>\n\n<p>I&rsquo;ve already learned a ton just by following Dana&rsquo;s posts. I look forward to taking the course myself.</p>\n",
+				"content_text": "> The web would be a much better place if fullstack, framework-focused developers used Learn HTML to better understand the basics, but we all can learn something from the course. Course creator Estelle Weyl noted that the course was targeted towards beginners, but created for all skill levels, including 'super-advanced people who don’t realize that they don’t know things'. Indeed.\r\n\r\nIn case you missed it, check out [Hot HTML Summer](https://danabyerly.com/tag/hot-html-summer/), Dana Byerly's blog series on the web.dev Learn HTML course. \r\n\r\nI've already learned a ton just by following Dana's posts. I look forward to taking the course myself.\n",
+				"date_published": "2023-08-02T15:52:22-04:00",
+				"url": "https://log.nick.sh/2023/08/02/the-web-would.html",
+				"tags": ["websites","accessibility","web platform"]
+			},
+			{
+				"id": "http://nsmsn.micro.blog/2023/07/30/want-to-read.html",
+				
+				"content_html": "<p>Want to read <a href=\"https://micro.blog/books/9780307758965\">The Radicalism of the American Revolution</a> by Gordon S. Wood 📚</p>\n\n<p>Picked up a copy of this Pulitzer winner, as well as few other history titles at a used bookstore yesterday.</p>\n",
+				"content_text": "Want to read [The Radicalism of the American Revolution](https://micro.blog/books/9780307758965) by Gordon S. Wood 📚\r\n\r\nPicked up a copy of this Pulitzer winner, as well as few other history titles at a used bookstore yesterday. \n",
+				"date_published": "2023-07-30T13:07:24-04:00",
+				"url": "https://log.nick.sh/2023/07/30/want-to-read.html",
+				"tags": ["books"]
+			},
+			{
 				"id": "http://nsmsn.micro.blog/2023/07/29/his-project-is.html",
 				
-				"content_html": "<blockquote>\n<p>His project is so vast that it can only be compared to, say, the construction of the Oxford English Dictionary.</p>\n</blockquote>\n\n<p>Bill McKibben highlighted the wonderful &lsquo;<a href=\"https://500songs.com/\">A History of Rock Music in 500 Songs</a>&rsquo; podcast for <a href=\"https://www.newyorker.com/culture/podcast-dept/a-music-podcast-unlike-any-other\">the New Yorker this week</a>. 🎙️</p>\n",
-				"content_text": "> His project is so vast that it can only be compared to, say, the construction of the Oxford English Dictionary.\r\n\r\nBill McKibben highlighted the wonderful '[A History of Rock Music in 500 Songs](https://500songs.com/)' podcast for [the New Yorker this week](https://www.newyorker.com/culture/podcast-dept/a-music-podcast-unlike-any-other). 🎙️\n",
+				"content_html": "<blockquote>\n<p>His project is so vast that it can only be compared to, say, the construction of the Oxford English Dictionary.</p>\n</blockquote>\n\n<p><a href=\"https://www.newyorker.com/culture/podcast-dept/a-music-podcast-unlike-any-other\">Bill McKibben highlighted</a> the wonderful &lsquo;<a href=\"https://500songs.com/\">A History of Rock Music in 500 Songs</a>&rsquo; podcast 🎙️ by Andrew Hickey for the <em>New Yorker</em> this week.</p>\n",
+				"content_text": "> His project is so vast that it can only be compared to, say, the construction of the Oxford English Dictionary.\r\n\r\n[Bill McKibben highlighted](https://www.newyorker.com/culture/podcast-dept/a-music-podcast-unlike-any-other) the wonderful '[A History of Rock Music in 500 Songs](https://500songs.com/)' podcast 🎙️ by Andrew Hickey for the *New Yorker* this week. \n",
 				"date_published": "2023-07-29T14:55:00-04:00",
 				"url": "https://log.nick.sh/2023/07/29/his-project-is.html",
 				"tags": ["music"]
