@@ -7,10 +7,28 @@
 	"items": [
 		
 			{
+				"id": "http://nsmsn.micro.blog/2023/08/09/i-found-a.html",
+				
+				"content_html": "<p>I found a lovely matching set of record cabinets at an antique store last weekend. Also upgraded my old turntable to a model with Bluetooth: I can listen to my records in another room with wireless headphones!</p>\n\n<p>It feels so good to get my vinyl out of cardboard storage boxes and playing it again.</p>\n\n<p><img src=\"uploads/2023/d68328a561.jpg\" width=\"600\" height=\"450\" alt=\"A stash of vinyl records in an open walnut cabinet. A turntable and bookshelf speakers sit on top, under a window.\"></p>\n",
+				"content_text": "I found a lovely matching set of record cabinets at an antique store last weekend. Also upgraded my old turntable to a model with Bluetooth: I can listen to my records in another room with wireless headphones!\n\nIt feels so good to get my vinyl out of cardboard storage boxes and playing it again.\n\n<img src=\"uploads/2023/d68328a561.jpg\" width=\"600\" height=\"450\" alt=\"A stash of vinyl records in an open walnut cabinet. A turntable and bookshelf speakers sit on top, under a window.\">\n",
+				"date_published": "2023-08-09T17:07:44-04:00",
+				"url": "https://log.nick.sh/2023/08/09/i-found-a.html",
+				"tags": ["personal","music","technology"]
+			},
+			{
+				"id": "http://nsmsn.micro.blog/2023/08/07/the-most-vital.html",
+				
+				"content_html": "<blockquote>\n<p>The most vital skill in a Content Designer isn’t empathy though. It’s cold, hard resilience. And the ability to be ok with stepping on peoples’ toes. Why don’t we interview for these? Why aren’t we, as the community, more transparent about this? It’s not an easy, quirky job. It’s lots of negotiating. Let’s be frank about it.</p>\n</blockquote>\n\n<p>&lsquo;<a href=\"https://medium.com/user-experience-design-1/why-i-no-longer-believe-in-content-design-e71aeb5f060c\">Why I no longer believe in Content Design</a>&rsquo; by Nicole Alexandra Michaelis</p>\n",
+				"content_text": "> The most vital skill in a Content Designer isn’t empathy though. It’s cold, hard resilience. And the ability to be ok with stepping on peoples’ toes. Why don’t we interview for these? Why aren’t we, as the community, more transparent about this? It’s not an easy, quirky job. It’s lots of negotiating. Let’s be frank about it.\n\n'[Why I no longer believe in Content Design](https://medium.com/user-experience-design-1/why-i-no-longer-believe-in-content-design-e71aeb5f060c)' by Nicole Alexandra Michaelis\n",
+				"date_published": "2023-08-07T15:19:29-04:00",
+				"url": "https://log.nick.sh/2023/08/07/the-most-vital.html",
+				"tags": ["content strategy","design"]
+			},
+			{
 				"id": "http://nsmsn.micro.blog/2023/08/03/so-much-of.html",
 				
-				"content_html": "<blockquote>\n<p>So much of my work focuses on scale, so I wanted to explicitly work on a side project which doesn’t scale at all. It’s just me sharing ideas and seeing what’s helpful. No AI recommendations here, just some good old HI—Human Intelligence.</p>\n</blockquote>\n\n<p>Bookmarked <a href=\"https://maketypework.com/\">Make Type Work</a>: Tips &amp; tricks to level up your type game in 2023.</p>\n",
-				"content_text": "> So much of my work focuses on scale, so I wanted to explicitly work on a side project which doesn’t scale at all. It’s just me sharing ideas and seeing what’s helpful. No AI recommendations here, just some good old HI—Human Intelligence.\r\n\r\nBookmarked [Make Type Work](https://maketypework.com/): Tips & tricks to level up your type game in 2023.\n",
+				"content_html": "<blockquote>\n<p>So much of my work focuses on scale, so I wanted to explicitly work on a side project which doesn’t scale at all. It’s just me sharing ideas and seeing what’s helpful. No AI recommendations here, just some good old HI—Human Intelligence.</p>\n</blockquote>\n\n<p>Bookmarked and subscribed to <a href=\"https://maketypework.com/\">Make Type Work</a>, a site by Jake Giltsoff. &ldquo;Tips &amp; tricks to level up your type game in 2023&rdquo;.</p>\n",
+				"content_text": "> So much of my work focuses on scale, so I wanted to explicitly work on a side project which doesn’t scale at all. It’s just me sharing ideas and seeing what’s helpful. No AI recommendations here, just some good old HI—Human Intelligence.\n\nBookmarked and subscribed to [Make Type Work](https://maketypework.com/), a site by Jake Giltsoff. \"Tips & tricks to level up your type game in 2023\".\n",
 				"date_published": "2023-08-03T17:01:08-04:00",
 				"url": "https://log.nick.sh/2023/08/03/so-much-of.html",
 				"tags": ["websites","design","type"]
@@ -135,8 +153,8 @@
 			{
 				"id": "http://nsmsn.micro.blog/2023/07/04/one-year-for.html",
 				
-				"content_html": "<p>One year for my dad’s birthday I sent him a <a href=\"https://www.pickpunch.com/\">pick punch</a>: a fun way to recycle old plastic cards into guitar picks.</p>\n\n<p>I was unpacking some of my dad’s music stuff my mom sent me this week. So here’s Dad and I (age 16 first driver license photo) immortalized as guitar picks now.</p>\n\n<p><img src=\"uploads/2023/772a50c5a4.jpg\" width=\"600\" height=\"450\" alt=\"Driver’s license photos of a middle aged man and a teenage boy cut into guitar pick shapes.\"></p>\n",
-				"content_text": "One year for my dad’s birthday I sent him a [pick punch](https://www.pickpunch.com/): a fun way to recycle old plastic cards into guitar picks. \n\nI was unpacking some of my dad’s music stuff my mom sent me this week. So here’s Dad and I (age 16 first driver license photo) immortalized as guitar picks now.\n\n<img src=\"uploads/2023/772a50c5a4.jpg\" width=\"600\" height=\"450\" alt=\"Driver’s license photos of a middle aged man and a teenage boy cut into guitar pick shapes.\">\n",
+				"content_html": "<p>One year for my dad’s birthday I sent him a <a href=\"https://www.pickpunch.com/\">pick punch</a>: a fun way to recycle old plastic cards into guitar picks.</p>\n\n<p>I was unpacking some of my dad’s music stuff my mom sent me this week. So here’s Dad and I (age 16 first driver license photo) immortalized as guitar picks now.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/67476/2023/772a50c5a4.jpg\" width=\"600\" height=\"450\" alt=\"Driver’s license photos of a middle aged man and a teenage boy cut into guitar pick shapes.\"></p>\n",
+				"content_text": "One year for my dad’s birthday I sent him a [pick punch](https://www.pickpunch.com/): a fun way to recycle old plastic cards into guitar picks. \n\nI was unpacking some of my dad’s music stuff my mom sent me this week. So here’s Dad and I (age 16 first driver license photo) immortalized as guitar picks now.\n\n<img src=\"https://cdn.uploads.micro.blog/67476/2023/772a50c5a4.jpg\" width=\"600\" height=\"450\" alt=\"Driver’s license photos of a middle aged man and a teenage boy cut into guitar pick shapes.\">\n",
 				"date_published": "2023-07-04T22:15:53-04:00",
 				"url": "https://log.nick.sh/2023/07/04/one-year-for.html",
 				"tags": ["personal","music"]
@@ -153,8 +171,8 @@
 			{
 				"id": "http://nsmsn.micro.blog/2023/06/21/finally-moved-in.html",
 				
-				"content_html": "<p>Finally moved in to our new place this week. This view from the backyard may be my favorite feature of the home.</p>\n\n<p><img src=\"uploads/2023/image.jpg\" width=\"450\" height=\"600\" alt=\"A view of the Sandia Mountains over a brick wall covered with trumpet flowers and sagebrush\"></p>\n",
-				"content_text": "Finally moved in to our new place this week. This view from the backyard may be my favorite feature of the home.\n\n<img src=\"uploads/2023/image.jpg\" width=\"450\" height=\"600\" alt=\"A view of the Sandia Mountains over a brick wall covered with trumpet flowers and sagebrush\">\n",
+				"content_html": "<p>Finally moved in to our new place this week. This view from the backyard may be my favorite feature of the home.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/67476/2023/image.jpg\" width=\"450\" height=\"600\" alt=\"A view of the Sandia Mountains over a brick wall covered with trumpet flowers and sagebrush\"></p>\n",
+				"content_text": "Finally moved in to our new place this week. This view from the backyard may be my favorite feature of the home.\n\n<img src=\"https://cdn.uploads.micro.blog/67476/2023/image.jpg\" width=\"450\" height=\"600\" alt=\"A view of the Sandia Mountains over a brick wall covered with trumpet flowers and sagebrush\">\n",
 				"date_published": "2023-06-21T19:24:03-04:00",
 				"url": "https://log.nick.sh/2023/06/21/finally-moved-in.html"
 			},
@@ -179,8 +197,8 @@
 			{
 				"id": "http://nsmsn.micro.blog/2023/06/02/ty-updated-his.html",
 				
-				"content_html": "<p><a href=\"https://tyfromtheinternet.com/\">Ty updated his website</a> recently, and it looks awesome.</p>\n\n<p><a href=\"https://tyfromtheinternet.com/\"><img src=\"uploads/2023/d1224a1d6c.png\" width=\"600\" height=\"378\" alt=\"ty's homepage featuring an illustration of his face in newsprint and several projects\"></a></p>\n\n<p>The whole thing is set in <a href=\"https://tyfromtheinternet.com/shop/noted/\">Noted</a>, a font he designed based on his own handwriting. It&rsquo;s for sale on his site along with <a href=\"https://tyfromtheinternet.com/fonts/\">several other nice type designs</a>.</p>\n",
-				"content_text": "[Ty updated his website](https://tyfromtheinternet.com/) recently, and it looks awesome.\n\n<a href=\"https://tyfromtheinternet.com/\"><img src=\"uploads/2023/d1224a1d6c.png\" width=\"600\" height=\"378\" alt=\"ty's homepage featuring an illustration of his face in newsprint and several projects\"></a>\n\nThe whole thing is set in [Noted](https://tyfromtheinternet.com/shop/noted/), a font he designed based on his own handwriting. It's for sale on his site along with [several other nice type designs](https://tyfromtheinternet.com/fonts/).\n",
+				"content_html": "<p><a href=\"https://tyfromtheinternet.com/\">Ty updated his website</a> recently, and it looks awesome.</p>\n\n<p><a href=\"https://tyfromtheinternet.com/\"><img src=\"https://cdn.uploads.micro.blog/67476/2023/d1224a1d6c.png\" width=\"600\" height=\"378\" alt=\"ty's homepage featuring an illustration of his face in newsprint and several projects\"></a></p>\n\n<p>The whole thing is set in <a href=\"https://tyfromtheinternet.com/shop/noted/\">Noted</a>, a font he designed based on his own handwriting. It&rsquo;s for sale on his site along with <a href=\"https://tyfromtheinternet.com/fonts/\">several other nice type designs</a>.</p>\n",
+				"content_text": "[Ty updated his website](https://tyfromtheinternet.com/) recently, and it looks awesome.\n\n<a href=\"https://tyfromtheinternet.com/\"><img src=\"https://cdn.uploads.micro.blog/67476/2023/d1224a1d6c.png\" width=\"600\" height=\"378\" alt=\"ty's homepage featuring an illustration of his face in newsprint and several projects\"></a>\n\nThe whole thing is set in [Noted](https://tyfromtheinternet.com/shop/noted/), a font he designed based on his own handwriting. It's for sale on his site along with [several other nice type designs](https://tyfromtheinternet.com/fonts/).\n",
 				"date_published": "2023-06-02T06:28:00-04:00",
 				"url": "https://log.nick.sh/2023/06/02/ty-updated-his.html",
 				"tags": ["websites","design","type"]
@@ -241,8 +259,8 @@
 			{
 				"id": "http://nsmsn.micro.blog/2023/05/23/reason-to-love.html",
 				
-				"content_html": "<p>Reason #1,461 to love Micro.blog:</p>\n\n<p>A small feature I requested on Monday (alpha sorted categories) made it into production by Tuesday evening.</p>\n\n<p><a href=\"https://help.micro.blog/t/feature-request-sorting-categories/1792\">help.micro.blog/t/feature&hellip;</a></p>\n\n<p><img src=\"uploads/2023/fb27eaf6fe.png\" width=\"600\" height=\"370\" alt=\"screenshot of the Micro.blog post editor with category options sorted alphabetically\"></p>\n",
-				"content_text": "Reason #1,461 to love Micro.blog:\r\n\r\nA small feature I requested on Monday (alpha sorted categories) made it into production by Tuesday evening. \r\n\r\n[help.micro.blog/t/feature...](https://help.micro.blog/t/feature-request-sorting-categories/1792)\n\n<img src=\"uploads/2023/fb27eaf6fe.png\" width=\"600\" height=\"370\" alt=\"screenshot of the Micro.blog post editor with category options sorted alphabetically\">\n",
+				"content_html": "<p>Reason #1,461 to love Micro.blog:</p>\n\n<p>A small feature I requested on Monday (alpha sorted categories) made it into production by Tuesday evening.</p>\n\n<p><a href=\"https://help.micro.blog/t/feature-request-sorting-categories/1792\">help.micro.blog/t/feature&hellip;</a></p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/67476/2023/fb27eaf6fe.png\" width=\"600\" height=\"370\" alt=\"screenshot of the Micro.blog post editor with category options sorted alphabetically\"></p>\n",
+				"content_text": "Reason #1,461 to love Micro.blog:\r\n\r\nA small feature I requested on Monday (alpha sorted categories) made it into production by Tuesday evening. \r\n\r\n[help.micro.blog/t/feature...](https://help.micro.blog/t/feature-request-sorting-categories/1792)\n\n<img src=\"https://cdn.uploads.micro.blog/67476/2023/fb27eaf6fe.png\" width=\"600\" height=\"370\" alt=\"screenshot of the Micro.blog post editor with category options sorted alphabetically\">\n",
 				"date_published": "2023-05-23T21:54:01-04:00",
 				"url": "https://log.nick.sh/2023/05/23/reason-to-love.html",
 				"tags": ["this site","social media"]
@@ -277,8 +295,8 @@
 			{
 				"id": "http://nsmsn.micro.blog/2023/05/22/founders-grotesk-condensed.html",
 				
-				"content_html": "<p>Founders Grotesk Condensed + Iowan Old Style + system-ui + SF Mono</p>\n\n<p><img src=\"uploads/2023/95b56f0422.png\" width=\"526\" height=\"600\" alt=\"a webpage with a creamy tan background, red hyperlinks, and chocolatey brown headings and text\"></p>\n\n<p>Playing around with custom CSS and the Tiny theme for Micro.blog by <a href=\"https://micro.blog/Mtt\">@Mtt</a>.</p>\n",
-				"content_text": "Founders Grotesk Condensed + Iowan Old Style + system-ui + SF Mono\n\n<img src=\"uploads/2023/95b56f0422.png\" width=\"526\" height=\"600\" alt=\"a webpage with a creamy tan background, red hyperlinks, and chocolatey brown headings and text\">\n\nPlaying around with custom CSS and the Tiny theme for Micro.blog by [@Mtt](https://micro.blog/Mtt).\n",
+				"content_html": "<p>Founders Grotesk Condensed + Iowan Old Style + system-ui + SF Mono</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/67476/2023/95b56f0422.png\" width=\"526\" height=\"600\" alt=\"a webpage with a creamy tan background, red hyperlinks, and chocolatey brown headings and text\"></p>\n\n<p>Playing around with custom CSS and the Tiny theme for Micro.blog by <a href=\"https://micro.blog/Mtt\">@Mtt</a>.</p>\n",
+				"content_text": "Founders Grotesk Condensed + Iowan Old Style + system-ui + SF Mono\n\n<img src=\"https://cdn.uploads.micro.blog/67476/2023/95b56f0422.png\" width=\"526\" height=\"600\" alt=\"a webpage with a creamy tan background, red hyperlinks, and chocolatey brown headings and text\">\n\nPlaying around with custom CSS and the Tiny theme for Micro.blog by [@Mtt](https://micro.blog/Mtt).\n",
 				"date_published": "2023-05-22T16:57:00-04:00",
 				"url": "https://log.nick.sh/2023/05/22/founders-grotesk-condensed.html",
 				"tags": ["social media","design","type"]
@@ -331,8 +349,8 @@
 			{
 				"id": "http://nsmsn.micro.blog/2023/05/20/at-the-childrens.html",
 				
-				"content_html": "<p>At the <a href=\"https://www.knoxcountylibrary.org/childrens-festival-of-reading\">Children’s Festival of Reading</a> earlier today.</p>\n\n<p>📍World’s Fair Park, Knoxville, Tenn.</p>\n\n<p>Tee shirt by <a href=\"https://gregpizzoli.com\">Greg Pizzoli</a></p>\n\n<p><img src=\"uploads/2023/5962e56134.jpg\" width=\"559\" height=\"600\" alt=\"A baby or toddler on a man’s shoulders. The man is wearing glasses and a shirt that says I Read Banned Books\"></p>\n",
-				"content_text": "At the [Children’s Festival of Reading](https://www.knoxcountylibrary.org/childrens-festival-of-reading) earlier today. \n\n📍World’s Fair Park, Knoxville, Tenn.\n\nTee shirt by [Greg Pizzoli](https://gregpizzoli.com)\n\n<img src=\"uploads/2023/5962e56134.jpg\" width=\"559\" height=\"600\" alt=\"A baby or toddler on a man’s shoulders. The man is wearing glasses and a shirt that says I Read Banned Books\">\n",
+				"content_html": "<p>At the <a href=\"https://www.knoxcountylibrary.org/childrens-festival-of-reading\">Children’s Festival of Reading</a> earlier today.</p>\n\n<p>📍World’s Fair Park, Knoxville, Tenn.</p>\n\n<p>Tee shirt by <a href=\"https://gregpizzoli.com\">Greg Pizzoli</a></p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/67476/2023/5962e56134.jpg\" width=\"559\" height=\"600\" alt=\"A baby or toddler on a man’s shoulders. The man is wearing glasses and a shirt that says I Read Banned Books\"></p>\n",
+				"content_text": "At the [Children’s Festival of Reading](https://www.knoxcountylibrary.org/childrens-festival-of-reading) earlier today. \n\n📍World’s Fair Park, Knoxville, Tenn.\n\nTee shirt by [Greg Pizzoli](https://gregpizzoli.com)\n\n<img src=\"https://cdn.uploads.micro.blog/67476/2023/5962e56134.jpg\" width=\"559\" height=\"600\" alt=\"A baby or toddler on a man’s shoulders. The man is wearing glasses and a shirt that says I Read Banned Books\">\n",
 				"date_published": "2023-05-20T13:05:02-04:00",
 				"url": "https://log.nick.sh/2023/05/20/at-the-childrens.html",
 				"tags": ["parenting","place"]
@@ -465,16 +483,16 @@
 			{
 				"id": "http://nsmsn.micro.blog/2023/04/05/did-someone-order.html",
 				
-				"content_html": "<p>Did someone order a tiny Gateway computer?</p>\n\n<p><img src=\"uploads/2023/c52565be42.jpg\" width=\"600\" height=\"600\" alt=\"A small cowhide print box in the palm of someone’s hand\"></p>\n",
-				"content_text": "Did someone order a tiny Gateway computer?\n\n<img src=\"uploads/2023/c52565be42.jpg\" width=\"600\" height=\"600\" alt=\"A small cowhide print box in the palm of someone’s hand\">\n",
+				"content_html": "<p>Did someone order a tiny Gateway computer?</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/67476/2023/c52565be42.jpg\" width=\"600\" height=\"600\" alt=\"A small cowhide print box in the palm of someone’s hand\"></p>\n",
+				"content_text": "Did someone order a tiny Gateway computer?\n\n<img src=\"https://cdn.uploads.micro.blog/67476/2023/c52565be42.jpg\" width=\"600\" height=\"600\" alt=\"A small cowhide print box in the palm of someone’s hand\">\n",
 				"date_published": "2023-04-05T17:39:23-04:00",
 				"url": "https://log.nick.sh/2023/04/05/did-someone-order.html"
 			},
 			{
 				"id": "http://nsmsn.micro.blog/2023/04/01/baby-bookworm.html",
 				
-				"content_html": "<p>Baby bookworm 📚</p>\n\n<p><img src=\"uploads/2023/f489a6d77d.jpg\" width=\"600\" height=\"600\" alt=\"A baby in an orange cardigan sweater looks at an open picture book in her lap.\"></p>\n",
-				"content_text": "Baby bookworm 📚 \n\n<img src=\"uploads/2023/f489a6d77d.jpg\" width=\"600\" height=\"600\" alt=\"A baby in an orange cardigan sweater looks at an open picture book in her lap.\">\n",
+				"content_html": "<p>Baby bookworm 📚</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/67476/2023/f489a6d77d.jpg\" width=\"600\" height=\"600\" alt=\"A baby in an orange cardigan sweater looks at an open picture book in her lap.\"></p>\n",
+				"content_text": "Baby bookworm 📚 \n\n<img src=\"https://cdn.uploads.micro.blog/67476/2023/f489a6d77d.jpg\" width=\"600\" height=\"600\" alt=\"A baby in an orange cardigan sweater looks at an open picture book in her lap.\">\n",
 				"date_published": "2023-04-01T10:08:30-04:00",
 				"url": "https://log.nick.sh/2023/04/01/baby-bookworm.html",
 				"tags": ["personal","books","parenting"]
@@ -545,8 +563,8 @@
 			{
 				"id": "http://nsmsn.micro.blog/2023/03/19/i-got-a.html",
 				"title": "Use your powers wisely, and enjoy!",
-				"content_html": "<p>I got a notification this morning that my application to join the <a href=\"https://literal.club/pages/librarian\">Literal Librarian</a> program was approved.</p>\n\n<p><a href=\"https://literal.club/\">Literal</a> is one of numerous Goodreads alternatives that have launched in the past several years. I&rsquo;ve been using it since May 2021 (in beta). I also use the Bookshelves feature in Micro.blog with the Epilogue app for iOS to track my reading. Micro.blog automatically posts to my Mastodon account, so I guess I use that too.</p>\n\n<p>The CMS powering Literal&rsquo;s book data is quite snappy, and I&rsquo;ve managed to upload a couple covers and add page count to a few editions already. The message that greets you in the CMS dashboard is &ldquo;Use your powers wisely, and enjoy!&rdquo;</p>\n\n<p><img src=\"uploads/2023/bcf43b91cd.png\" width=\"600\" height=\"267\" alt=\"Literal CMS dashboard with simple instructions.\"></p>\n",
-				"content_text": "I got a notification this morning that my application to join the [Literal Librarian](https://literal.club/pages/librarian) program was approved. \n\n[Literal](https://literal.club/) is one of numerous Goodreads alternatives that have launched in the past several years. I've been using it since May 2021 (in beta). I also use the Bookshelves feature in Micro.blog with the Epilogue app for iOS to track my reading. Micro.blog automatically posts to my Mastodon account, so I guess I use that too.\n\nThe CMS powering Literal's book data is quite snappy, and I've managed to upload a couple covers and add page count to a few editions already. The message that greets you in the CMS dashboard is \"Use your powers wisely, and enjoy!\"\n\n<img src=\"uploads/2023/bcf43b91cd.png\" width=\"600\" height=\"267\" alt=\"Literal CMS dashboard with simple instructions.\">\n",
+				"content_html": "<p>I got a notification this morning that my application to join the <a href=\"https://literal.club/pages/librarian\">Literal Librarian</a> program was approved.</p>\n\n<p><a href=\"https://literal.club/\">Literal</a> is one of numerous Goodreads alternatives that have launched in the past several years. I&rsquo;ve been using it since May 2021 (in beta). I also use the Bookshelves feature in Micro.blog with the Epilogue app for iOS to track my reading. Micro.blog automatically posts to my Mastodon account, so I guess I use that too.</p>\n\n<p>The CMS powering Literal&rsquo;s book data is quite snappy, and I&rsquo;ve managed to upload a couple covers and add page count to a few editions already. The message that greets you in the CMS dashboard is &ldquo;Use your powers wisely, and enjoy!&rdquo;</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/67476/2023/bcf43b91cd.png\" width=\"600\" height=\"267\" alt=\"Literal CMS dashboard with simple instructions.\"></p>\n",
+				"content_text": "I got a notification this morning that my application to join the [Literal Librarian](https://literal.club/pages/librarian) program was approved. \n\n[Literal](https://literal.club/) is one of numerous Goodreads alternatives that have launched in the past several years. I've been using it since May 2021 (in beta). I also use the Bookshelves feature in Micro.blog with the Epilogue app for iOS to track my reading. Micro.blog automatically posts to my Mastodon account, so I guess I use that too.\n\nThe CMS powering Literal's book data is quite snappy, and I've managed to upload a couple covers and add page count to a few editions already. The message that greets you in the CMS dashboard is \"Use your powers wisely, and enjoy!\"\n\n<img src=\"https://cdn.uploads.micro.blog/67476/2023/bcf43b91cd.png\" width=\"600\" height=\"267\" alt=\"Literal CMS dashboard with simple instructions.\">\n",
 				"date_published": "2023-03-19T10:59:51-04:00",
 				"url": "https://log.nick.sh/2023/03/19/i-got-a.html",
 				"tags": ["social media","books","technology"]
@@ -804,8 +822,8 @@
 			{
 				"id": "http://nsmsn.micro.blog/2022/12/27/more-balloons.html",
 				
-				"content_html": "<p>More balloons.</p>\n\n<p><img src=\"uploads/2022/5f225dee01.jpg\" width=\"450\" height=\"600\" alt=\"a man carries a baby in a colorful sweater atop his shoulders. there are hot air baloons floating in the sky behind them\"></p>\n",
-				"content_text": "More balloons. \n\n<img src=\"uploads/2022/5f225dee01.jpg\" width=\"450\" height=\"600\" alt=\"a man carries a baby in a colorful sweater atop his shoulders. there are hot air baloons floating in the sky behind them\">\n",
+				"content_html": "<p>More balloons.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/67476/2022/5f225dee01.jpg\" width=\"450\" height=\"600\" alt=\"a man carries a baby in a colorful sweater atop his shoulders. there are hot air baloons floating in the sky behind them\"></p>\n",
+				"content_text": "More balloons. \n\n<img src=\"https://cdn.uploads.micro.blog/67476/2022/5f225dee01.jpg\" width=\"450\" height=\"600\" alt=\"a man carries a baby in a colorful sweater atop his shoulders. there are hot air baloons floating in the sky behind them\">\n",
 				"date_published": "2022-12-27T20:43:54-04:00",
 				"url": "https://log.nick.sh/2022/12/27/more-balloons.html",
 				"tags": ["personal"]
@@ -813,8 +831,8 @@
 			{
 				"id": "http://nsmsn.micro.blog/2022/12/27/petroglyphs-and-balloons.html",
 				
-				"content_html": "<p><img src=\"uploads/2022/b9d435bc90.jpg\" width=\"450\" height=\"600\" alt=\"rocks covered in ancient symbols carved into rock\"></p>\n\n<p><img src=\"uploads/2022/eda029c82d.jpg\" width=\"450\" height=\"600\" alt=\"hot air balloons in the sky over an Albuquerque neighborhood \"></p>\n\n<p>Petroglyphs and balloons.</p>\n\n<p>📍Piedras Marcadas Canyon Trail (near Albuquerque, NM)</p>\n",
-				"content_text": "<img src=\"uploads/2022/b9d435bc90.jpg\" width=\"450\" height=\"600\" alt=\"rocks covered in ancient symbols carved into rock\"> \n\n<img src=\"uploads/2022/eda029c82d.jpg\" width=\"450\" height=\"600\" alt=\"hot air balloons in the sky over an Albuquerque neighborhood \">\n\nPetroglyphs and balloons.\n\n📍Piedras Marcadas Canyon Trail (near Albuquerque, NM)\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/67476/2022/b9d435bc90.jpg\" width=\"450\" height=\"600\" alt=\"rocks covered in ancient symbols carved into rock\"></p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/67476/2022/eda029c82d.jpg\" width=\"450\" height=\"600\" alt=\"hot air balloons in the sky over an Albuquerque neighborhood \"></p>\n\n<p>Petroglyphs and balloons.</p>\n\n<p>📍Piedras Marcadas Canyon Trail (near Albuquerque, NM)</p>\n",
+				"content_text": "<img src=\"https://cdn.uploads.micro.blog/67476/2022/b9d435bc90.jpg\" width=\"450\" height=\"600\" alt=\"rocks covered in ancient symbols carved into rock\"> \n\n<img src=\"https://cdn.uploads.micro.blog/67476/2022/eda029c82d.jpg\" width=\"450\" height=\"600\" alt=\"hot air balloons in the sky over an Albuquerque neighborhood \">\n\nPetroglyphs and balloons.\n\n📍Piedras Marcadas Canyon Trail (near Albuquerque, NM)\n",
 				"date_published": "2022-12-27T19:43:50-04:00",
 				"url": "https://log.nick.sh/2022/12/27/petroglyphs-and-balloons.html",
 				"tags": ["place"]
@@ -822,8 +840,8 @@
 			{
 				"id": "http://nsmsn.micro.blog/2022/12/26/there-are-other.html",
 				
-				"content_html": "<p>There are other games I enjoy more and play year round, but something about playing dominoes in late December feels just right.</p>\n\n<p><img src=\"uploads/2022/6afe06da78.jpg\" width=\"600\" height=\"449\" alt=\"A game of Mexican Train with five lengths of dominoes\"></p>\n",
-				"content_text": "There are other games I enjoy more and play year round, but something about playing dominoes in late December feels just right.\n\n<img src=\"uploads/2022/6afe06da78.jpg\" width=\"600\" height=\"449\" alt=\"A game of Mexican Train with five lengths of dominoes\">\n",
+				"content_html": "<p>There are other games I enjoy more and play year round, but something about playing dominoes in late December feels just right.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/67476/2022/6afe06da78.jpg\" width=\"600\" height=\"449\" alt=\"A game of Mexican Train with five lengths of dominoes\"></p>\n",
+				"content_text": "There are other games I enjoy more and play year round, but something about playing dominoes in late December feels just right.\n\n<img src=\"https://cdn.uploads.micro.blog/67476/2022/6afe06da78.jpg\" width=\"600\" height=\"449\" alt=\"A game of Mexican Train with five lengths of dominoes\">\n",
 				"date_published": "2022-12-26T23:53:00-04:00",
 				"url": "https://log.nick.sh/2022/12/26/there-are-other.html"
 			},
@@ -866,8 +884,8 @@
 			{
 				"id": "http://nsmsn.micro.blog/2022/12/19/neat-little-dark.html",
 				
-				"content_html": "<p>Neat little dark mode UI feature: The Vivaldi browser (in dark mode) will highlight the favicon on your active tab with a tiny white outline. Looks beautiful with SVG icons.</p>\n\n<p><img src=\"uploads/2022/e97379a21b.png\" width=\"600\" height=\"101\" alt=\"A highlighted browser tab displays the favicon of NickSimson dot com with a white highlight around it.\"></p>\n\n<p>Download Vivaldi from <a href=\"https://vivaldi.com/\">https://vivaldi.com/</a></p>\n",
-				"content_text": "Neat little dark mode UI feature: The Vivaldi browser (in dark mode) will highlight the favicon on your active tab with a tiny white outline. Looks beautiful with SVG icons.\n\n<img src=\"uploads/2022/e97379a21b.png\" width=\"600\" height=\"101\" alt=\"A highlighted browser tab displays the favicon of NickSimson dot com with a white highlight around it.\">\n\nDownload Vivaldi from [https://vivaldi.com/](https://vivaldi.com/)\n",
+				"content_html": "<p>Neat little dark mode UI feature: The Vivaldi browser (in dark mode) will highlight the favicon on your active tab with a tiny white outline. Looks beautiful with SVG icons.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/67476/2022/e97379a21b.png\" width=\"600\" height=\"101\" alt=\"A highlighted browser tab displays the favicon of NickSimson dot com with a white highlight around it.\"></p>\n\n<p>Download Vivaldi from <a href=\"https://vivaldi.com/\">https://vivaldi.com/</a></p>\n",
+				"content_text": "Neat little dark mode UI feature: The Vivaldi browser (in dark mode) will highlight the favicon on your active tab with a tiny white outline. Looks beautiful with SVG icons.\n\n<img src=\"https://cdn.uploads.micro.blog/67476/2022/e97379a21b.png\" width=\"600\" height=\"101\" alt=\"A highlighted browser tab displays the favicon of NickSimson dot com with a white highlight around it.\">\n\nDownload Vivaldi from [https://vivaldi.com/](https://vivaldi.com/)\n",
 				"date_published": "2022-12-19T20:36:04-04:00",
 				"url": "https://log.nick.sh/2022/12/19/neat-little-dark.html",
 				"tags": ["websites","technology"]
@@ -998,8 +1016,8 @@
 			{
 				"id": "http://nsmsn.micro.blog/2022/11/30/a-happy-blue.html",
 				
-				"content_html": "<p><img src=\"uploads/2022/5b170eed3f.jpg\" width=\"600\" height=\"600\" alt=\"a man in a navy sweatshirt and glasses wearing a bright blue knit hat\"></p>\n\n<p>A happy <a href=\"https://en.m.wikipedia.org/wiki/Blue_Beanie_Day\">Blue Beanie Day</a> to everyone out there today. You can read this message thanks to Web Standards.</p>\n\n<p>I keep a list of links to my <a href=\"https://nicksimson.com/accessibility/#a11y*-resources\">favorite accessibility resources</a> from a page of my personal website. Most are beginner-friendly entry points. There&rsquo;s no better time to get started with accessibility than right now.</p>\n",
-				"content_text": "<img src=\"uploads/2022/5b170eed3f.jpg\" width=\"600\" height=\"600\" alt=\"a man in a navy sweatshirt and glasses wearing a bright blue knit hat\">\n\nA happy [Blue Beanie Day](https://en.m.wikipedia.org/wiki/Blue_Beanie_Day) to everyone out there today. You can read this message thanks to Web Standards.\n\nI keep a list of links to my [favorite accessibility resources](https://nicksimson.com/accessibility/#a11y*-resources ) from a page of my personal website. Most are beginner-friendly entry points. There's no better time to get started with accessibility than right now.\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/67476/2022/5b170eed3f.jpg\" width=\"600\" height=\"600\" alt=\"a man in a navy sweatshirt and glasses wearing a bright blue knit hat\"></p>\n\n<p>A happy <a href=\"https://en.m.wikipedia.org/wiki/Blue_Beanie_Day\">Blue Beanie Day</a> to everyone out there today. You can read this message thanks to Web Standards.</p>\n\n<p>I keep a list of links to my <a href=\"https://nicksimson.com/accessibility/#a11y*-resources\">favorite accessibility resources</a> from a page of my personal website. Most are beginner-friendly entry points. There&rsquo;s no better time to get started with accessibility than right now.</p>\n",
+				"content_text": "<img src=\"https://cdn.uploads.micro.blog/67476/2022/5b170eed3f.jpg\" width=\"600\" height=\"600\" alt=\"a man in a navy sweatshirt and glasses wearing a bright blue knit hat\">\n\nA happy [Blue Beanie Day](https://en.m.wikipedia.org/wiki/Blue_Beanie_Day) to everyone out there today. You can read this message thanks to Web Standards.\n\nI keep a list of links to my [favorite accessibility resources](https://nicksimson.com/accessibility/#a11y*-resources ) from a page of my personal website. Most are beginner-friendly entry points. There's no better time to get started with accessibility than right now.\n",
 				"date_published": "2022-11-30T09:49:22-04:00",
 				"url": "https://log.nick.sh/2022/11/30/a-happy-blue.html",
 				"tags": ["accessibility","web platform"]
@@ -1059,8 +1077,8 @@
 			{
 				"id": "http://nsmsn.micro.blog/2022/11/17/now-playing-on.html",
 				
-				"content_html": "<p>Now playing on the turntable: <a href=\"https://www.discogs.com/release/14773032-White-Heaven-Out\">“Out” by White Heaven</a> 🎵🎶</p>\n\n<p>A friend ordered this and two copies were shipped to him, so I was the lucky beneficiary of the distributor’s mistake. I wasn’t familiar with this Japanese band before, but I am a fan of noisy guitars/psychedelic rock.</p>\n\n<p><img src=\"uploads/2022/61f446b07a.jpg\" width=\"600\" height=\"600\" alt=\"a gold or copper colored vinyl record with a marble finish\"></p>\n",
-				"content_text": "Now playing on the turntable: [“Out” by White Heaven](https://www.discogs.com/release/14773032-White-Heaven-Out) 🎵🎶\n\nA friend ordered this and two copies were shipped to him, so I was the lucky beneficiary of the distributor’s mistake. I wasn’t familiar with this Japanese band before, but I am a fan of noisy guitars/psychedelic rock.\n\n<img src=\"uploads/2022/61f446b07a.jpg\" width=\"600\" height=\"600\" alt=\"a gold or copper colored vinyl record with a marble finish\">\n",
+				"content_html": "<p>Now playing on the turntable: <a href=\"https://www.discogs.com/release/14773032-White-Heaven-Out\">“Out” by White Heaven</a> 🎵🎶</p>\n\n<p>A friend ordered this and two copies were shipped to him, so I was the lucky beneficiary of the distributor’s mistake. I wasn’t familiar with this Japanese band before, but I am a fan of noisy guitars/psychedelic rock.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/67476/2022/61f446b07a.jpg\" width=\"600\" height=\"600\" alt=\"a gold or copper colored vinyl record with a marble finish\"></p>\n",
+				"content_text": "Now playing on the turntable: [“Out” by White Heaven](https://www.discogs.com/release/14773032-White-Heaven-Out) 🎵🎶\n\nA friend ordered this and two copies were shipped to him, so I was the lucky beneficiary of the distributor’s mistake. I wasn’t familiar with this Japanese band before, but I am a fan of noisy guitars/psychedelic rock.\n\n<img src=\"https://cdn.uploads.micro.blog/67476/2022/61f446b07a.jpg\" width=\"600\" height=\"600\" alt=\"a gold or copper colored vinyl record with a marble finish\">\n",
 				"date_published": "2022-11-17T17:03:00-04:00",
 				"url": "https://log.nick.sh/2022/11/17/now-playing-on.html",
 				"tags": ["music"]
@@ -1077,8 +1095,8 @@
 			{
 				"id": "http://nsmsn.micro.blog/2022/11/10/yesterday-was-the.html",
 				
-				"content_html": "<p>Yesterday was the one year anniversary of <a href=\"https://nicksimson.com/posts/2021-boone/\">my father’s unexpected death</a>.</p>\n\n<p>I don’t have dreams about my father often, but last night I dreamed the two of us were at a guitar shop together, trying out different insturments and playing songs.</p>\n\n<p>Music was one of the many things we shared. I miss you, Dad.</p>\n\n<p><img src=\"uploads/2022/7518f68505.jpg\" width=\"600\" height=\"423\" alt=\"a double exposed photo from the early 90s of a balding man and his young son. the man has a 12 sting acoustic guitar and the boy is playing a miniature 6 string guitar\"></p>\n",
-				"content_text": "Yesterday was the one year anniversary of [my father’s unexpected death](https://nicksimson.com/posts/2021-boone/). \n\nI don’t have dreams about my father often, but last night I dreamed the two of us were at a guitar shop together, trying out different insturments and playing songs.\n\nMusic was one of the many things we shared. I miss you, Dad.\n\n<img src=\"uploads/2022/7518f68505.jpg\" width=\"600\" height=\"423\" alt=\"a double exposed photo from the early 90s of a balding man and his young son. the man has a 12 sting acoustic guitar and the boy is playing a miniature 6 string guitar\">\n",
+				"content_html": "<p>Yesterday was the one year anniversary of <a href=\"https://nicksimson.com/posts/2021-boone/\">my father’s unexpected death</a>.</p>\n\n<p>I don’t have dreams about my father often, but last night I dreamed the two of us were at a guitar shop together, trying out different insturments and playing songs.</p>\n\n<p>Music was one of the many things we shared. I miss you, Dad.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/67476/2022/7518f68505.jpg\" width=\"600\" height=\"423\" alt=\"a double exposed photo from the early 90s of a balding man and his young son. the man has a 12 sting acoustic guitar and the boy is playing a miniature 6 string guitar\"></p>\n",
+				"content_text": "Yesterday was the one year anniversary of [my father’s unexpected death](https://nicksimson.com/posts/2021-boone/). \n\nI don’t have dreams about my father often, but last night I dreamed the two of us were at a guitar shop together, trying out different insturments and playing songs.\n\nMusic was one of the many things we shared. I miss you, Dad.\n\n<img src=\"https://cdn.uploads.micro.blog/67476/2022/7518f68505.jpg\" width=\"600\" height=\"423\" alt=\"a double exposed photo from the early 90s of a balding man and his young son. the man has a 12 sting acoustic guitar and the boy is playing a miniature 6 string guitar\">\n",
 				"date_published": "2022-11-10T10:47:58-04:00",
 				"url": "https://log.nick.sh/2022/11/10/yesterday-was-the.html",
 				"tags": ["personal","music"]
@@ -1094,16 +1112,16 @@
 			{
 				"id": "http://nsmsn.micro.blog/2022/10/25/day-two-of.html",
 				"title": "working from gnome",
-				"content_html": "<p>Day two at my new (fully remote!) job. Costumes were “highly encouraged”.</p>\n\n<p><img src=\"uploads/2022/250cba6e1b.png\" width=\"600\" height=\"332\" alt=\"a man dressed as a garden gnome with false beard and pointy hat getting ready to join a Microsoft Teams call\"></p>\n\n<p>Update: I won the costume contest!</p>\n",
-				"content_text": "Day two at my new (fully remote!) job. Costumes were “highly encouraged”.\n\n<img src=\"uploads/2022/250cba6e1b.png\" width=\"600\" height=\"332\" alt=\"a man dressed as a garden gnome with false beard and pointy hat getting ready to join a Microsoft Teams call\">\n\nUpdate: I won the costume contest!\n",
+				"content_html": "<p>Day two at my new (fully remote!) job. Costumes were “highly encouraged”.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/67476/2022/250cba6e1b.png\" width=\"600\" height=\"332\" alt=\"a man dressed as a garden gnome with false beard and pointy hat getting ready to join a Microsoft Teams call\"></p>\n\n<p>Update: I won the costume contest!</p>\n",
+				"content_text": "Day two at my new (fully remote!) job. Costumes were “highly encouraged”.\n\n<img src=\"https://cdn.uploads.micro.blog/67476/2022/250cba6e1b.png\" width=\"600\" height=\"332\" alt=\"a man dressed as a garden gnome with false beard and pointy hat getting ready to join a Microsoft Teams call\">\n\nUpdate: I won the costume contest!\n",
 				"date_published": "2022-10-25T16:56:22-04:00",
 				"url": "https://log.nick.sh/2022/10/25/day-two-of.html"
 			},
 			{
 				"id": "http://nsmsn.micro.blog/2022/10/21/oh-no-this.html",
 				
-				"content_html": "<p>Oh, no! <a href=\"https://www.discogs.com/master/52741-Devo-Oh-No-Its-Devo\">This iconic album</a> was released <strong>40 years</strong> ago today. 🎵</p>\n\n<p><img src=\"uploads/2022/585f47ec7f.jpg\" width=\"431\" height=\"600\" alt=\"oh, no! it's DEVO on the turntable, with the five spudboys on the record sleeve\" /></p>\n\n<p>That’s good!</p>\n",
-				"content_text": "Oh, no! [This iconic album](https://www.discogs.com/master/52741-Devo-Oh-No-Its-Devo) was released **40 years** ago today. 🎵\n\n<img src=\"uploads/2022/585f47ec7f.jpg\" width=\"431\" height=\"600\" alt=\"oh, no! it's DEVO on the turntable, with the five spudboys on the record sleeve\" />\n\nThat’s good! \n",
+				"content_html": "<p>Oh, no! <a href=\"https://www.discogs.com/master/52741-Devo-Oh-No-Its-Devo\">This iconic album</a> was released <strong>40 years</strong> ago today. 🎵</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/67476/2022/585f47ec7f.jpg\" width=\"431\" height=\"600\" alt=\"oh, no! it's DEVO on the turntable, with the five spudboys on the record sleeve\" /></p>\n\n<p>That’s good!</p>\n",
+				"content_text": "Oh, no! [This iconic album](https://www.discogs.com/master/52741-Devo-Oh-No-Its-Devo) was released **40 years** ago today. 🎵\n\n<img src=\"https://cdn.uploads.micro.blog/67476/2022/585f47ec7f.jpg\" width=\"431\" height=\"600\" alt=\"oh, no! it's DEVO on the turntable, with the five spudboys on the record sleeve\" />\n\nThat’s good! \n",
 				"date_published": "2022-10-21T09:15:00-04:00",
 				"url": "https://log.nick.sh/2022/10/21/oh-no-this.html",
 				"tags": ["music"]
@@ -1209,8 +1227,8 @@
 			{
 				"id": "http://nsmsn.micro.blog/2022/09/17/today-i-learned.html",
 				
-				"content_html": "<p>Today I learned that Bert has an identical twin brother, Bart. Based on this image, I assume Bart has a media studies degree and brews his own kombucha.</p>\n\n<p><img src=\"uploads/2022/40d47a0cf4.png\" width=\"600\" height=\"372\" alt=\"Sesame Street's Bert with his identical twin brother Bart\" /></p>\n",
-				"content_text": "Today I learned that Bert has an identical twin brother, Bart. Based on this image, I assume Bart has a media studies degree and brews his own kombucha.\n\n<img src=\"uploads/2022/40d47a0cf4.png\" width=\"600\" height=\"372\" alt=\"Sesame Street's Bert with his identical twin brother Bart\" />\n",
+				"content_html": "<p>Today I learned that Bert has an identical twin brother, Bart. Based on this image, I assume Bart has a media studies degree and brews his own kombucha.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/67476/2022/40d47a0cf4.png\" width=\"600\" height=\"372\" alt=\"Sesame Street's Bert with his identical twin brother Bart\" /></p>\n",
+				"content_text": "Today I learned that Bert has an identical twin brother, Bart. Based on this image, I assume Bart has a media studies degree and brews his own kombucha.\n\n<img src=\"https://cdn.uploads.micro.blog/67476/2022/40d47a0cf4.png\" width=\"600\" height=\"372\" alt=\"Sesame Street's Bert with his identical twin brother Bart\" />\n",
 				"date_published": "2022-09-17T09:17:53-04:00",
 				"url": "https://log.nick.sh/2022/09/17/today-i-learned.html"
 			},
@@ -1331,8 +1349,8 @@
 			{
 				"id": "http://nsmsn.micro.blog/2022/04/27/hard-to-believe.html",
 				
-				"content_html": "<p>Seven years since we brought this little buddy home. 🐶</p>\n\n<p><img src=\"uploads/2022/5574bfd19b.jpg\" width=\"600\" height=\"600\" alt=\"a small black dog with white fuzz on its chin looks up toward a pair of feet in white running shoes\" /></p>\n",
-				"content_text": "Seven years since we brought this little buddy home. 🐶\n\n<img src=\"uploads/2022/5574bfd19b.jpg\" width=\"600\" height=\"600\" alt=\"a small black dog with white fuzz on its chin looks up toward a pair of feet in white running shoes\" />\n",
+				"content_html": "<p>Seven years since we brought this little buddy home. 🐶</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/67476/2022/5574bfd19b.jpg\" width=\"600\" height=\"600\" alt=\"a small black dog with white fuzz on its chin looks up toward a pair of feet in white running shoes\" /></p>\n",
+				"content_text": "Seven years since we brought this little buddy home. 🐶\n\n<img src=\"https://cdn.uploads.micro.blog/67476/2022/5574bfd19b.jpg\" width=\"600\" height=\"600\" alt=\"a small black dog with white fuzz on its chin looks up toward a pair of feet in white running shoes\" />\n",
 				"date_published": "2022-08-01T10:56:35-04:00",
 				"url": "https://log.nick.sh/2022/04/27/hard-to-believe.html",
 				"tags": ["personal"]
@@ -1375,8 +1393,8 @@
 			{
 				"id": "http://nsmsn.micro.blog/2022/07/24/knoxville-tennessee-is.html",
 				
-				"content_html": "<p>‘Knoxville, Tennessee’ is a poem written by Nikki Giovanni about the summers of her youth spent in East Tennessee with her grandparents. It was beautifully illustrated as a picture book by Larry Johnson in 1994.</p>\n\n<p><img src=\"uploads/2022/b667a84aca.jpg\" width=\"319\" height=\"318\" alt=\"illustration of a family eating a summertime picnic outside a big church\" /></p>\n",
-				"content_text": "‘Knoxville, Tennessee’ is a poem written by Nikki Giovanni about the summers of her youth spent in East Tennessee with her grandparents. It was beautifully illustrated as a picture book by Larry Johnson in 1994.\n\n<img src=\"uploads/2022/b667a84aca.jpg\" width=\"319\" height=\"318\" alt=\"illustration of a family eating a summertime picnic outside a big church\" />\n",
+				"content_html": "<p>‘Knoxville, Tennessee’ is a poem written by Nikki Giovanni about the summers of her youth spent in East Tennessee with her grandparents. It was beautifully illustrated as a picture book by Larry Johnson in 1994.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/67476/2022/b667a84aca.jpg\" width=\"319\" height=\"318\" alt=\"illustration of a family eating a summertime picnic outside a big church\" /></p>\n",
+				"content_text": "‘Knoxville, Tennessee’ is a poem written by Nikki Giovanni about the summers of her youth spent in East Tennessee with her grandparents. It was beautifully illustrated as a picture book by Larry Johnson in 1994.\n\n<img src=\"https://cdn.uploads.micro.blog/67476/2022/b667a84aca.jpg\" width=\"319\" height=\"318\" alt=\"illustration of a family eating a summertime picnic outside a big church\" />\n",
 				"date_published": "2022-07-24T19:40:30-04:00",
 				"url": "https://log.nick.sh/2022/07/24/knoxville-tennessee-is.html"
 			},
@@ -1443,8 +1461,8 @@
 			{
 				"id": "http://nsmsn.micro.blog/2022/07/20/182432.html",
 				
-				"content_html": "<p>Currently listening to <a href=\"https://www.discogs.com/release/242785-Doom-And-Madlib-Madvillain-Madvillainy\">Madvillainy</a> by Doom and Madlib (2004, Stones Throw Records) 🎵</p>\n\n<p>My local library has a great vinyl collection!</p>\n\n<p><img src=\"uploads/2022/f69a9aa851.jpg\" width=\"599\" height=\"600\" alt=\"madvillain LP spinning on a record player\" /></p>\n",
-				"content_text": "Currently listening to [Madvillainy](https://www.discogs.com/release/242785-Doom-And-Madlib-Madvillain-Madvillainy) by Doom and Madlib (2004, Stones Throw Records) 🎵 \n\nMy local library has a great vinyl collection!\n\n<img src=\"uploads/2022/f69a9aa851.jpg\" width=\"599\" height=\"600\" alt=\"madvillain LP spinning on a record player\" />\n",
+				"content_html": "<p>Currently listening to <a href=\"https://www.discogs.com/release/242785-Doom-And-Madlib-Madvillain-Madvillainy\">Madvillainy</a> by Doom and Madlib (2004, Stones Throw Records) 🎵</p>\n\n<p>My local library has a great vinyl collection!</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/67476/2022/f69a9aa851.jpg\" width=\"599\" height=\"600\" alt=\"madvillain LP spinning on a record player\" /></p>\n",
+				"content_text": "Currently listening to [Madvillainy](https://www.discogs.com/release/242785-Doom-And-Madlib-Madvillain-Madvillainy) by Doom and Madlib (2004, Stones Throw Records) 🎵 \n\nMy local library has a great vinyl collection!\n\n<img src=\"https://cdn.uploads.micro.blog/67476/2022/f69a9aa851.jpg\" width=\"599\" height=\"600\" alt=\"madvillain LP spinning on a record player\" />\n",
 				"date_published": "2022-07-20T18:24:32-04:00",
 				"url": "https://log.nick.sh/2022/07/20/182432.html",
 				"tags": ["music"]
@@ -1540,8 +1558,8 @@
 			{
 				"id": "http://nsmsn.micro.blog/2022/07/13/a-wonderful-picture.html",
 				
-				"content_html": "<p>A wonderful picture book for kids (and adults too): <a href=\"https://micro.blog/books/9780823450671\">The Little Wooden Robot and the Log Princess</a> by Tom Gauld 📚</p>\n\n<p><img src=\"uploads/2022/0341b454e8.jpg\" alt=\"\" /></p>\n\n<p>I was familiar with some of Tom Gauld’s cartoons as well as his covers for the New Yorker. The simple shapes and intricate cross hatching of his art translates well from the comics panel to the storybook spread.</p>\n\n<p><img src=\"uploads/2022/1203cb6761.jpg\" alt=\"\"  /></p>\n\n<p>My niece and nephew liked this book and I will enjoy reading this bedtime story to my daughter.</p>\n\n<p><img src=\"uploads/2022/a1ef4fcb20.jpg\"  alt=\"\" /></p>\n",
-				"content_text": "A wonderful picture book for kids (and adults too): [The Little Wooden Robot and the Log Princess](https://micro.blog/books/9780823450671) by Tom Gauld 📚\n\n<img src=\"uploads/2022/0341b454e8.jpg\" alt=\"\" />\n\nI was familiar with some of Tom Gauld’s cartoons as well as his covers for the New Yorker. The simple shapes and intricate cross hatching of his art translates well from the comics panel to the storybook spread. \n\n<img src=\"uploads/2022/1203cb6761.jpg\" alt=\"\"  />\n\nMy niece and nephew liked this book and I will enjoy reading this bedtime story to my daughter.\n\n<img src=\"uploads/2022/a1ef4fcb20.jpg\"  alt=\"\" />\n",
+				"content_html": "<p>A wonderful picture book for kids (and adults too): <a href=\"https://micro.blog/books/9780823450671\">The Little Wooden Robot and the Log Princess</a> by Tom Gauld 📚</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/67476/2022/0341b454e8.jpg\" alt=\"\" /></p>\n\n<p>I was familiar with some of Tom Gauld’s cartoons as well as his covers for the New Yorker. The simple shapes and intricate cross hatching of his art translates well from the comics panel to the storybook spread.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/67476/2022/1203cb6761.jpg\" alt=\"\"  /></p>\n\n<p>My niece and nephew liked this book and I will enjoy reading this bedtime story to my daughter.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/67476/2022/a1ef4fcb20.jpg\"  alt=\"\" /></p>\n",
+				"content_text": "A wonderful picture book for kids (and adults too): [The Little Wooden Robot and the Log Princess](https://micro.blog/books/9780823450671) by Tom Gauld 📚\n\n<img src=\"https://cdn.uploads.micro.blog/67476/2022/0341b454e8.jpg\" alt=\"\" />\n\nI was familiar with some of Tom Gauld’s cartoons as well as his covers for the New Yorker. The simple shapes and intricate cross hatching of his art translates well from the comics panel to the storybook spread. \n\n<img src=\"https://cdn.uploads.micro.blog/67476/2022/1203cb6761.jpg\" alt=\"\"  />\n\nMy niece and nephew liked this book and I will enjoy reading this bedtime story to my daughter.\n\n<img src=\"https://cdn.uploads.micro.blog/67476/2022/a1ef4fcb20.jpg\"  alt=\"\" />\n",
 				"date_published": "2022-07-13T10:42:19-04:00",
 				"url": "https://log.nick.sh/2022/07/13/a-wonderful-picture.html",
 				"tags": ["books"]
@@ -1549,8 +1567,8 @@
 			{
 				"id": "http://nsmsn.micro.blog/2022/07/12/weve-been-hosting.html",
 				
-				"content_html": "<p>We’ve been hosting family visits for several weeks this summer, most recently with my wife’s sister and her family. The visit is winding down, and tonight my five year old nephew said “Wait, you have a CD player?” He meant my turntable and vinyl collection, and I told both kids we could play a record after they finished brushing their teeth. I started holding up sleeves, and the kids chose the most colorful cover, which was <a href=\"https://www.discogs.com/master/513925-The-Drifters-Their-Greatest-RecordingsEarly-Years\">The Drifters - Their Greatest Recordings, The Early Years</a>. 🎶 🎵</p>\n\n<p><img src=\"uploads/2022/72527b29c8.jpg\" width=\"600\" height=\"600\" alt=\"the Drifters - Their Greatest Recordings The Early Years\" /></p>\n\n<p>Of all the discs in my record collection, I was a bit surprised my niece and nephew wanted to hear a R&amp;B group formed nearly 70 years ago, but they loved it and were dancing around the living room.</p>\n",
-				"content_text": "We’ve been hosting family visits for several weeks this summer, most recently with my wife’s sister and her family. The visit is winding down, and tonight my five year old nephew said “Wait, you have a CD player?” He meant my turntable and vinyl collection, and I told both kids we could play a record after they finished brushing their teeth. I started holding up sleeves, and the kids chose the most colorful cover, which was [The Drifters - Their Greatest Recordings, The Early Years](https://www.discogs.com/master/513925-The-Drifters-Their-Greatest-RecordingsEarly-Years). 🎶 🎵 \n\n<img src=\"uploads/2022/72527b29c8.jpg\" width=\"600\" height=\"600\" alt=\"the Drifters - Their Greatest Recordings The Early Years\" />\n\nOf all the discs in my record collection, I was a bit surprised my niece and nephew wanted to hear a R&B group formed nearly 70 years ago, but they loved it and were dancing around the living room.\n",
+				"content_html": "<p>We’ve been hosting family visits for several weeks this summer, most recently with my wife’s sister and her family. The visit is winding down, and tonight my five year old nephew said “Wait, you have a CD player?” He meant my turntable and vinyl collection, and I told both kids we could play a record after they finished brushing their teeth. I started holding up sleeves, and the kids chose the most colorful cover, which was <a href=\"https://www.discogs.com/master/513925-The-Drifters-Their-Greatest-RecordingsEarly-Years\">The Drifters - Their Greatest Recordings, The Early Years</a>. 🎶 🎵</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/67476/2022/72527b29c8.jpg\" width=\"600\" height=\"600\" alt=\"the Drifters - Their Greatest Recordings The Early Years\" /></p>\n\n<p>Of all the discs in my record collection, I was a bit surprised my niece and nephew wanted to hear a R&amp;B group formed nearly 70 years ago, but they loved it and were dancing around the living room.</p>\n",
+				"content_text": "We’ve been hosting family visits for several weeks this summer, most recently with my wife’s sister and her family. The visit is winding down, and tonight my five year old nephew said “Wait, you have a CD player?” He meant my turntable and vinyl collection, and I told both kids we could play a record after they finished brushing their teeth. I started holding up sleeves, and the kids chose the most colorful cover, which was [The Drifters - Their Greatest Recordings, The Early Years](https://www.discogs.com/master/513925-The-Drifters-Their-Greatest-RecordingsEarly-Years). 🎶 🎵 \n\n<img src=\"https://cdn.uploads.micro.blog/67476/2022/72527b29c8.jpg\" width=\"600\" height=\"600\" alt=\"the Drifters - Their Greatest Recordings The Early Years\" />\n\nOf all the discs in my record collection, I was a bit surprised my niece and nephew wanted to hear a R&B group formed nearly 70 years ago, but they loved it and were dancing around the living room.\n",
 				"date_published": "2022-07-12T22:07:15-04:00",
 				"url": "https://log.nick.sh/2022/07/12/weve-been-hosting.html",
 				"tags": ["music"]
@@ -1593,32 +1611,32 @@
 			{
 				"id": "http://nsmsn.micro.blog/2022/07/06/heres-a-majestic.html",
 				
-				"content_html": "<p>Here’s a majestic photo of Zelda, taken by my brother-in-law earlier this week. 🐶</p>\n\n<p><img src=\"uploads/2022/a67974a23a.jpg\" width=\"599\" height=\"600\" alt=\"a short haired dog with pointed ears stands on a rock\" /></p>\n",
-				"content_text": "Here’s a majestic photo of Zelda, taken by my brother-in-law earlier this week. 🐶\n\n<img src=\"uploads/2022/a67974a23a.jpg\" width=\"599\" height=\"600\" alt=\"a short haired dog with pointed ears stands on a rock\" />\n",
+				"content_html": "<p>Here’s a majestic photo of Zelda, taken by my brother-in-law earlier this week. 🐶</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/67476/2022/a67974a23a.jpg\" width=\"599\" height=\"600\" alt=\"a short haired dog with pointed ears stands on a rock\" /></p>\n",
+				"content_text": "Here’s a majestic photo of Zelda, taken by my brother-in-law earlier this week. 🐶\n\n<img src=\"https://cdn.uploads.micro.blog/67476/2022/a67974a23a.jpg\" width=\"599\" height=\"600\" alt=\"a short haired dog with pointed ears stands on a rock\" />\n",
 				"date_published": "2022-07-06T12:21:28-04:00",
 				"url": "https://log.nick.sh/2022/07/06/heres-a-majestic.html"
 			},
 			{
 				"id": "http://nsmsn.micro.blog/2022/06/23/i-was-reminded.html",
 				
-				"content_html": "<p><img src=\"uploads/2022/d01d85fe15.png\" width=\"600\" height=\"450\" alt=\"a simple logo of a circle with a roman numeral IX in the center\" /></p>\n\n<p>I was reminded today that Title IX of the Education Amendments of 1972 was passed 50 years ago today. This was a simple mark I created a few years ago at the University of Tennessee, which has been used annually in reports by the UT Office of Title IX every year since 2018.</p>\n\n<p><img src=\"uploads/2022/3511af4f8b.png\" width=\"600\" height=\"450\" alt=\"repeating pattern of the Title IX logo\" /></p>\n",
-				"content_text": "<img src=\"uploads/2022/d01d85fe15.png\" width=\"600\" height=\"450\" alt=\"a simple logo of a circle with a roman numeral IX in the center\" />\n\nI was reminded today that Title IX of the Education Amendments of 1972 was passed 50 years ago today. This was a simple mark I created a few years ago at the University of Tennessee, which has been used annually in reports by the UT Office of Title IX every year since 2018.\n\n<img src=\"uploads/2022/3511af4f8b.png\" width=\"600\" height=\"450\" alt=\"repeating pattern of the Title IX logo\" />\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/67476/2022/d01d85fe15.png\" width=\"600\" height=\"450\" alt=\"a simple logo of a circle with a roman numeral IX in the center\" /></p>\n\n<p>I was reminded today that Title IX of the Education Amendments of 1972 was passed 50 years ago today. This was a simple mark I created a few years ago at the University of Tennessee, which has been used annually in reports by the UT Office of Title IX every year since 2018.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/67476/2022/3511af4f8b.png\" width=\"600\" height=\"450\" alt=\"repeating pattern of the Title IX logo\" /></p>\n",
+				"content_text": "<img src=\"https://cdn.uploads.micro.blog/67476/2022/d01d85fe15.png\" width=\"600\" height=\"450\" alt=\"a simple logo of a circle with a roman numeral IX in the center\" />\n\nI was reminded today that Title IX of the Education Amendments of 1972 was passed 50 years ago today. This was a simple mark I created a few years ago at the University of Tennessee, which has been used annually in reports by the UT Office of Title IX every year since 2018.\n\n<img src=\"https://cdn.uploads.micro.blog/67476/2022/3511af4f8b.png\" width=\"600\" height=\"450\" alt=\"repeating pattern of the Title IX logo\" />\n",
 				"date_published": "2022-06-23T22:42:43-04:00",
 				"url": "https://log.nick.sh/2022/06/23/i-was-reminded.html"
 			},
 			{
 				"id": "http://nsmsn.micro.blog/2022/06/21/my-mom-is.html",
 				
-				"content_html": "<p>My mom is visiting this week. She asked the concierge at her hotel about discounted admission to our local zoo. This is what the hotel gave her. Maybe QR codes are a net good?</p>\n\n<p><img src=\"uploads/2022/784f8baccc.jpg\" width=\"600\" height=\"536\" alt=\"a very long web address typed out on a thin strip of paper\" /></p>\n",
-				"content_text": "My mom is visiting this week. She asked the concierge at her hotel about discounted admission to our local zoo. This is what the hotel gave her. Maybe QR codes are a net good?\n\n<img src=\"uploads/2022/784f8baccc.jpg\" width=\"600\" height=\"536\" alt=\"a very long web address typed out on a thin strip of paper\" />\n",
+				"content_html": "<p>My mom is visiting this week. She asked the concierge at her hotel about discounted admission to our local zoo. This is what the hotel gave her. Maybe QR codes are a net good?</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/67476/2022/784f8baccc.jpg\" width=\"600\" height=\"536\" alt=\"a very long web address typed out on a thin strip of paper\" /></p>\n",
+				"content_text": "My mom is visiting this week. She asked the concierge at her hotel about discounted admission to our local zoo. This is what the hotel gave her. Maybe QR codes are a net good?\n\n<img src=\"https://cdn.uploads.micro.blog/67476/2022/784f8baccc.jpg\" width=\"600\" height=\"536\" alt=\"a very long web address typed out on a thin strip of paper\" />\n",
 				"date_published": "2022-06-21T23:18:03-04:00",
 				"url": "https://log.nick.sh/2022/06/21/my-mom-is.html"
 			},
 			{
 				"id": "http://nsmsn.micro.blog/2022/06/19/listening-to-the.html",
 				
-				"content_html": "<p>Listening to The Essential Paul Robeson, a double LP featuring several selections from Robeson’s <a href=\"https://www.carnegiehall.org/About/History/Carnegie-Hall-Icons/Paul-Robeson\">1958 “Farewell” performance at Carnegie Hall</a> 🎵</p>\n\n<p><img src=\"uploads/2022/0283c5e755.jpg\" width=\"450\" height=\"600\" alt=\"the Essential Paul Robeson vinyl record and album cover\" /></p>\n",
-				"content_text": "Listening to The Essential Paul Robeson, a double LP featuring several selections from Robeson’s [1958 “Farewell” performance at Carnegie Hall](https://www.carnegiehall.org/About/History/Carnegie-Hall-Icons/Paul-Robeson) 🎵 \n\n\n\n<img src=\"uploads/2022/0283c5e755.jpg\" width=\"450\" height=\"600\" alt=\"the Essential Paul Robeson vinyl record and album cover\" />\n",
+				"content_html": "<p>Listening to The Essential Paul Robeson, a double LP featuring several selections from Robeson’s <a href=\"https://www.carnegiehall.org/About/History/Carnegie-Hall-Icons/Paul-Robeson\">1958 “Farewell” performance at Carnegie Hall</a> 🎵</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/67476/2022/0283c5e755.jpg\" width=\"450\" height=\"600\" alt=\"the Essential Paul Robeson vinyl record and album cover\" /></p>\n",
+				"content_text": "Listening to The Essential Paul Robeson, a double LP featuring several selections from Robeson’s [1958 “Farewell” performance at Carnegie Hall](https://www.carnegiehall.org/About/History/Carnegie-Hall-Icons/Paul-Robeson) 🎵 \n\n\n\n<img src=\"https://cdn.uploads.micro.blog/67476/2022/0283c5e755.jpg\" width=\"450\" height=\"600\" alt=\"the Essential Paul Robeson vinyl record and album cover\" />\n",
 				"date_published": "2022-06-19T08:10:48-04:00",
 				"url": "https://log.nick.sh/2022/06/19/listening-to-the.html",
 				"tags": ["music"]
@@ -1704,8 +1722,8 @@
 			{
 				"id": "http://nsmsn.micro.blog/2022/05/27/the-favorite-band.html",
 				
-				"content_html": "<p>The favorite band of everyone under 9 months old—The Ramones! 🎵</p>\n\n<p><img src=\"uploads/2022/889cf30f44.jpg\" width=\"600\" height=\"600\" alt=\"an infant wearing a onsie with the Ramones logo\" /></p>\n",
-				"content_text": "The favorite band of everyone under 9 months old—The Ramones! 🎵\n\n<img src=\"uploads/2022/889cf30f44.jpg\" width=\"600\" height=\"600\" alt=\"an infant wearing a onsie with the Ramones logo\" />\n",
+				"content_html": "<p>The favorite band of everyone under 9 months old—The Ramones! 🎵</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/67476/2022/889cf30f44.jpg\" width=\"600\" height=\"600\" alt=\"an infant wearing a onsie with the Ramones logo\" /></p>\n",
+				"content_text": "The favorite band of everyone under 9 months old—The Ramones! 🎵\n\n<img src=\"https://cdn.uploads.micro.blog/67476/2022/889cf30f44.jpg\" width=\"600\" height=\"600\" alt=\"an infant wearing a onsie with the Ramones logo\" />\n",
 				"date_published": "2022-05-27T09:49:25-04:00",
 				"url": "https://log.nick.sh/2022/05/27/the-favorite-band.html",
 				"tags": ["music"]
@@ -1730,8 +1748,8 @@
 			{
 				"id": "http://nsmsn.micro.blog/2022/05/23/181800.html",
 				
-				"content_html": "<p>Listening to <a href=\"https://www.dragcity.com/products/simple-songs\">Simple Songs</a> by Jim O&rsquo;Rourke (Drag City 2015) 🎵</p>\n\n<p><img src=\"uploads/2022/5bed7d9727.jpg\" width=\"450\" height=\"600\" alt=\"vinyl record on turntable\" /></p>\n",
-				"content_text": "Listening to [Simple Songs](https://www.dragcity.com/products/simple-songs) by Jim O'Rourke (Drag City 2015) 🎵\n\n<img src=\"uploads/2022/5bed7d9727.jpg\" width=\"450\" height=\"600\" alt=\"vinyl record on turntable\" />\n",
+				"content_html": "<p>Listening to <a href=\"https://www.dragcity.com/products/simple-songs\">Simple Songs</a> by Jim O&rsquo;Rourke (Drag City 2015) 🎵</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/67476/2022/5bed7d9727.jpg\" width=\"450\" height=\"600\" alt=\"vinyl record on turntable\" /></p>\n",
+				"content_text": "Listening to [Simple Songs](https://www.dragcity.com/products/simple-songs) by Jim O'Rourke (Drag City 2015) 🎵\n\n<img src=\"https://cdn.uploads.micro.blog/67476/2022/5bed7d9727.jpg\" width=\"450\" height=\"600\" alt=\"vinyl record on turntable\" />\n",
 				"date_published": "2022-05-23T18:18:00-04:00",
 				"url": "https://log.nick.sh/2022/05/23/181800.html",
 				"tags": ["music"]
@@ -1748,8 +1766,8 @@
 			{
 				"id": "http://nsmsn.micro.blog/2022/05/21/some-bright-late.html",
 				
-				"content_html": "<p>Some of the bright spring blooms in our yard 🌱</p>\n\n<p><img src=\"uploads/2022/2fd824839c.jpg\" width=\"600\" height=\"600\" alt=\"a bright pink rose\" /><img src=\"uploads/2022/98a4a55818.jpg\" width=\"600\" height=\"600\" alt=\"a large yellow rose\" /><img src=\"uploads/2022/692f3330cb.jpg\" width=\"600\" height=\"600\" alt=\"two yellow roses\" /></p>\n",
-				"content_text": "Some of the bright spring blooms in our yard 🌱\n\n<img src=\"uploads/2022/2fd824839c.jpg\" width=\"600\" height=\"600\" alt=\"a bright pink rose\" /><img src=\"uploads/2022/98a4a55818.jpg\" width=\"600\" height=\"600\" alt=\"a large yellow rose\" /><img src=\"uploads/2022/692f3330cb.jpg\" width=\"600\" height=\"600\" alt=\"two yellow roses\" />\n",
+				"content_html": "<p>Some of the bright spring blooms in our yard 🌱</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/67476/2022/2fd824839c.jpg\" width=\"600\" height=\"600\" alt=\"a bright pink rose\" /><img src=\"https://cdn.uploads.micro.blog/67476/2022/98a4a55818.jpg\" width=\"600\" height=\"600\" alt=\"a large yellow rose\" /><img src=\"https://cdn.uploads.micro.blog/67476/2022/692f3330cb.jpg\" width=\"600\" height=\"600\" alt=\"two yellow roses\" /></p>\n",
+				"content_text": "Some of the bright spring blooms in our yard 🌱\n\n<img src=\"https://cdn.uploads.micro.blog/67476/2022/2fd824839c.jpg\" width=\"600\" height=\"600\" alt=\"a bright pink rose\" /><img src=\"https://cdn.uploads.micro.blog/67476/2022/98a4a55818.jpg\" width=\"600\" height=\"600\" alt=\"a large yellow rose\" /><img src=\"https://cdn.uploads.micro.blog/67476/2022/692f3330cb.jpg\" width=\"600\" height=\"600\" alt=\"two yellow roses\" />\n",
 				"date_published": "2022-05-21T17:25:32-04:00",
 				"url": "https://log.nick.sh/2022/05/21/some-bright-late.html"
 			},
@@ -1808,8 +1826,8 @@
 			{
 				"id": "http://nsmsn.micro.blog/2022/05/12/tranquil-september.html",
 				
-				"content_html": "<p>Tranquility🐶</p>\n\n<p><img src=\"uploads/2022/29eba9efbf.jpg\" width=\"599\" height=\"600\" alt=\"a small dog curled up asleep with its ears perked up on a bed\" /></p>\n\n<p>This is my phone’s Lock Screen (when it’s “asleep”)</p>\n",
-				"content_text": "Tranquility🐶\n\n<img src=\"uploads/2022/29eba9efbf.jpg\" width=\"599\" height=\"600\" alt=\"a small dog curled up asleep with its ears perked up on a bed\" />\n\nThis is my phone’s Lock Screen (when it’s “asleep”)\n",
+				"content_html": "<p>Tranquility🐶</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/67476/2022/29eba9efbf.jpg\" width=\"599\" height=\"600\" alt=\"a small dog curled up asleep with its ears perked up on a bed\" /></p>\n\n<p>This is my phone’s Lock Screen (when it’s “asleep”)</p>\n",
+				"content_text": "Tranquility🐶\n\n<img src=\"https://cdn.uploads.micro.blog/67476/2022/29eba9efbf.jpg\" width=\"599\" height=\"600\" alt=\"a small dog curled up asleep with its ears perked up on a bed\" />\n\nThis is my phone’s Lock Screen (when it’s “asleep”)\n",
 				"date_published": "2022-05-12T19:38:30-04:00",
 				"url": "https://log.nick.sh/2022/05/12/tranquil-september.html"
 			},
@@ -1842,8 +1860,8 @@
 			{
 				"id": "http://nsmsn.micro.blog/2022/05/10/in-when-i.html",
 				
-				"content_html": "<p>In 2007, when I was still a design student, I signed up to get Emigre’s font catalogues sent in the mail. This was before Adobe Fonts, or more accurately, when Adobe Fonts were only type families designed by Adobe and packaged in a CD-ROM that cost a couple hundred dollars.</p>\n\n<p>15 years and eight address changes later, it’s still a delight to get these little Emigre booklets in my mailbox.</p>\n\n<p><img src=\"uploads/2022/a9f28268fc.jpg\" width=\"600\" height=\"600\" alt=\"inside cover of Tally, featuring red text overlaid on a Nikon camera\" /></p>\n\n<p><img src=\"uploads/2022/7fc371d6bd.jpg\" width=\"600\" height=\"600\" alt=\"spread of a book featuring a photo of a storefront in Paso Robles, California\" /></p>\n\n<blockquote>\n<p>This catalog is a supplement to a series of publications featuring pictures of California. It contains statistics and background information from a selection of 479 pictures taken between 2006 and 2021. Displaying this kind of data presents a unique typographic challenge, and offers a perfect scenario to exhibit our fonts in action. So this booklet functions as a type catalog as well.</p>\n</blockquote>\n\n<p>Emigre: <a href=\"https://www.emigre.com/TypeSpecimens/Tally\">Tally booklet</a>. Design, photography and text by Rudy VanderLans.</p>\n",
-				"content_text": "In 2007, when I was still a design student, I signed up to get Emigre’s font catalogues sent in the mail. This was before Adobe Fonts, or more accurately, when Adobe Fonts were only type families designed by Adobe and packaged in a CD-ROM that cost a couple hundred dollars.\n\n15 years and eight address changes later, it’s still a delight to get these little Emigre booklets in my mailbox.\n\n<img src=\"uploads/2022/a9f28268fc.jpg\" width=\"600\" height=\"600\" alt=\"inside cover of Tally, featuring red text overlaid on a Nikon camera\" />\n\n<img src=\"uploads/2022/7fc371d6bd.jpg\" width=\"600\" height=\"600\" alt=\"spread of a book featuring a photo of a storefront in Paso Robles, California\" />\n\n> This catalog is a supplement to a series of publications featuring pictures of California. It contains statistics and background information from a selection of 479 pictures taken between 2006 and 2021. Displaying this kind of data presents a unique typographic challenge, and offers a perfect scenario to exhibit our fonts in action. So this booklet functions as a type catalog as well.\n\nEmigre: [Tally booklet](https://www.emigre.com/TypeSpecimens/Tally). Design, photography and text by Rudy VanderLans.\n",
+				"content_html": "<p>In 2007, when I was still a design student, I signed up to get Emigre’s font catalogues sent in the mail. This was before Adobe Fonts, or more accurately, when Adobe Fonts were only type families designed by Adobe and packaged in a CD-ROM that cost a couple hundred dollars.</p>\n\n<p>15 years and eight address changes later, it’s still a delight to get these little Emigre booklets in my mailbox.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/67476/2022/a9f28268fc.jpg\" width=\"600\" height=\"600\" alt=\"inside cover of Tally, featuring red text overlaid on a Nikon camera\" /></p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/67476/2022/7fc371d6bd.jpg\" width=\"600\" height=\"600\" alt=\"spread of a book featuring a photo of a storefront in Paso Robles, California\" /></p>\n\n<blockquote>\n<p>This catalog is a supplement to a series of publications featuring pictures of California. It contains statistics and background information from a selection of 479 pictures taken between 2006 and 2021. Displaying this kind of data presents a unique typographic challenge, and offers a perfect scenario to exhibit our fonts in action. So this booklet functions as a type catalog as well.</p>\n</blockquote>\n\n<p>Emigre: <a href=\"https://www.emigre.com/TypeSpecimens/Tally\">Tally booklet</a>. Design, photography and text by Rudy VanderLans.</p>\n",
+				"content_text": "In 2007, when I was still a design student, I signed up to get Emigre’s font catalogues sent in the mail. This was before Adobe Fonts, or more accurately, when Adobe Fonts were only type families designed by Adobe and packaged in a CD-ROM that cost a couple hundred dollars.\n\n15 years and eight address changes later, it’s still a delight to get these little Emigre booklets in my mailbox.\n\n<img src=\"https://cdn.uploads.micro.blog/67476/2022/a9f28268fc.jpg\" width=\"600\" height=\"600\" alt=\"inside cover of Tally, featuring red text overlaid on a Nikon camera\" />\n\n<img src=\"https://cdn.uploads.micro.blog/67476/2022/7fc371d6bd.jpg\" width=\"600\" height=\"600\" alt=\"spread of a book featuring a photo of a storefront in Paso Robles, California\" />\n\n> This catalog is a supplement to a series of publications featuring pictures of California. It contains statistics and background information from a selection of 479 pictures taken between 2006 and 2021. Displaying this kind of data presents a unique typographic challenge, and offers a perfect scenario to exhibit our fonts in action. So this booklet functions as a type catalog as well.\n\nEmigre: [Tally booklet](https://www.emigre.com/TypeSpecimens/Tally). Design, photography and text by Rudy VanderLans.\n",
 				"date_published": "2022-05-10T12:33:00-04:00",
 				"url": "https://log.nick.sh/2022/05/10/in-when-i.html"
 			},
@@ -1886,8 +1904,8 @@
 			{
 				"id": "http://nsmsn.micro.blog/2022/04/30/someone-in-the.html",
 				
-				"content_html": "<p>Someone in the neighborhood left this out on the curb. The miniature dresser will be a great addition to the kid’s room. Sure enough it’s stamped “SOLID MHG” on the back and bottom.</p>\n\n<p>I left the sewing machine for someone else to take home.</p>\n\n<p><img src=\"uploads/2022/621c8c39e7.jpg\" width=\"600\" height=\"600\" alt=\"a small mahogany dresser four drawers tall with a vintage sewing machine on the top\" /></p>\n",
-				"content_text": "Someone in the neighborhood left this out on the curb. The miniature dresser will be a great addition to the kid’s room. Sure enough it’s stamped “SOLID MHG” on the back and bottom. \n\nI left the sewing machine for someone else to take home.\n\n<img src=\"uploads/2022/621c8c39e7.jpg\" width=\"600\" height=\"600\" alt=\"a small mahogany dresser four drawers tall with a vintage sewing machine on the top\" />\n",
+				"content_html": "<p>Someone in the neighborhood left this out on the curb. The miniature dresser will be a great addition to the kid’s room. Sure enough it’s stamped “SOLID MHG” on the back and bottom.</p>\n\n<p>I left the sewing machine for someone else to take home.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/67476/2022/621c8c39e7.jpg\" width=\"600\" height=\"600\" alt=\"a small mahogany dresser four drawers tall with a vintage sewing machine on the top\" /></p>\n",
+				"content_text": "Someone in the neighborhood left this out on the curb. The miniature dresser will be a great addition to the kid’s room. Sure enough it’s stamped “SOLID MHG” on the back and bottom. \n\nI left the sewing machine for someone else to take home.\n\n<img src=\"https://cdn.uploads.micro.blog/67476/2022/621c8c39e7.jpg\" width=\"600\" height=\"600\" alt=\"a small mahogany dresser four drawers tall with a vintage sewing machine on the top\" />\n",
 				"date_published": "2022-04-30T20:56:00-04:00",
 				"url": "https://log.nick.sh/2022/04/30/someone-in-the.html"
 			},
@@ -1928,8 +1946,8 @@
 			{
 				"id": "http://nsmsn.micro.blog/2022/03/04/im-a-dad.html",
 				
-				"content_html": "<p>I&rsquo;m a dad! Eleanor and I welcomed the arrival of our daughter this morning.</p>\n\n<p><img src=\"uploads/2022/c9d3b0b203.jpg\" width=\"480\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "I'm a dad! Eleanor and I welcomed the arrival of our daughter this morning.\n\n<img src=\"uploads/2022/c9d3b0b203.jpg\" width=\"480\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>I&rsquo;m a dad! Eleanor and I welcomed the arrival of our daughter this morning.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/67476/2022/c9d3b0b203.jpg\" width=\"480\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "I'm a dad! Eleanor and I welcomed the arrival of our daughter this morning.\n\n<img src=\"https://cdn.uploads.micro.blog/67476/2022/c9d3b0b203.jpg\" width=\"480\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-03-04T21:02:00-04:00",
 				"url": "https://log.nick.sh/2022/03/04/im-a-dad.html",
 				"tags": ["personal"]
@@ -1937,16 +1955,16 @@
 			{
 				"id": "http://nsmsn.micro.blog/2021/11/11/me-with-dad.html",
 				
-				"content_html": "<p>Me with Dad at my cousin&rsquo;s wedding in 2019. Dad died early Tuesday morning at his home in Arizona. I wrote a little about who he was: <a href=\"https://nicksimson.com/posts/2021-boone/\">nicksimson.com/posts/202&hellip;</a></p>\n\n<p><img src=\"uploads/2022/a76866e67d.jpg\" width=\"600\" height=\"400\" alt=\"\" /></p>\n",
-				"content_text": "Me with Dad at my cousin's wedding in 2019. Dad died early Tuesday morning at his home in Arizona. I wrote a little about who he was: [nicksimson.com/posts/202...](https://nicksimson.com/posts/2021-boone/)\n\n<img src=\"uploads/2022/a76866e67d.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n",
+				"content_html": "<p>Me with Dad at my cousin&rsquo;s wedding in 2019. Dad died early Tuesday morning at his home in Arizona. I wrote a little about who he was: <a href=\"https://nicksimson.com/posts/2021-boone/\">nicksimson.com/posts/202&hellip;</a></p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/67476/2022/a76866e67d.jpg\" width=\"600\" height=\"400\" alt=\"\" /></p>\n",
+				"content_text": "Me with Dad at my cousin's wedding in 2019. Dad died early Tuesday morning at his home in Arizona. I wrote a little about who he was: [nicksimson.com/posts/202...](https://nicksimson.com/posts/2021-boone/)\n\n<img src=\"https://cdn.uploads.micro.blog/67476/2022/a76866e67d.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n",
 				"date_published": "2021-11-11T10:20:00-04:00",
 				"url": "https://log.nick.sh/2021/11/11/me-with-dad.html"
 			},
 			{
 				"id": "http://nsmsn.micro.blog/2021/10/09/indieweb-create-day.html",
 				"title": "IndieWeb Create Day",
-				"content_html": "<!-- wp:paragraph -->\n\n<p><p>I&rsquo;m currently participating in my first <a href=\"https://events.indieweb.org/2021/10/indieweb-create-day-ZKw5v2nFDu6f\">IndieWeb Create Day</a>:</p>\n<!-- /wp:paragraph --></p>\n\n<!-- wp:quote -->\n\n<p><blockquote class=\"wp-block-quote\"><p>Join us in the IndieWeb chat and in our Zoom room. Share ideas, create &amp; improve our personal websites, and build upon each other&rsquo;s creations. Whether you’re a creator, writer, blogger, coder, designer, or just someone who wants to improve their presence on the web, all skill and experience levels welcome. Breakout rooms available for those who want to collaborate on the same topic.</p></blockquote>\n<!-- /wp:quote --></p>\n\n<!-- wp:paragraph -->\n\n<p><p>I&rsquo;m using some free time today work in the same virtual space as others to add a new feature to <a href=\"https://nicksimson.com/\">my personal site</a>: dark mode!</p>\n<!-- /wp:paragraph --></p>\n\n<!-- wp:image {\"id\":186,\"sizeSlug\":\"large\",\"linkDestination\":\"none\"} -->\n\n<p><figure class=\"wp-block-image size-large\"><img src=\"uploads/2022/5e30da2b1f.jpg\" alt=\"Portfolio page showcasing two web projects\" class=\"wp-image-186\"/><figcaption>Work in progress: My portfolio page in dark mode </figcaption></figure>\n<!-- /wp:image --></p>\n\n<!-- wp:paragraph -->\n\n<p><p>Cory Etzkorn has an <a href=\"https://www.coryetzkorn.com/blog/implementing-dark-mode-with-sass/\">interesting and elegant dark mode solution</a>, wrapping all of the dark mode styles within a single mixin. I tried this approach, but changed course due to way my stylesheet is structured.</p>\n<!-- /wp:paragraph --></p>\n\n<!-- wp:paragraph -->\n\n<p><p>Revisiting my CSS in dark mode, I am seeing opportunities to use <a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/--*\">CSS variables</a> for my root colors (background, text, supporting text, links, and hovers). </p>\n<!-- /wp:paragraph --></p>\n\n<!-- wp:paragraph -->\n\n<p><p>For my block classes and utility classes, I am including a @media (prefers-color-scheme: dark) rule for any overrides on the relevant .scss files. </p>\n<!-- /wp:paragraph --></p>\n",
-				"content_text": "<!-- wp:paragraph -->\n<p>I'm currently participating in my first <a href=\"https://events.indieweb.org/2021/10/indieweb-create-day-ZKw5v2nFDu6f\">IndieWeb Create Day</a>:</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:quote -->\n<blockquote class=\"wp-block-quote\"><p>Join us in the IndieWeb chat and in our Zoom room. Share ideas, create &amp; improve our personal websites, and build upon each other's creations. Whether you’re a creator, writer, blogger, coder, designer, or just someone who wants to improve their presence on the web, all skill and experience levels welcome. Breakout rooms available for those who want to collaborate on the same topic.</p></blockquote>\n<!-- /wp:quote -->\n\n<!-- wp:paragraph -->\n<p>I'm using some free time today work in the same virtual space as others to add a new feature to <a href=\"https://nicksimson.com/\">my personal site</a>: dark mode!</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:image {\"id\":186,\"sizeSlug\":\"large\",\"linkDestination\":\"none\"} -->\n<figure class=\"wp-block-image size-large\"><img src=\"uploads/2022/5e30da2b1f.jpg\" alt=\"Portfolio page showcasing two web projects\" class=\"wp-image-186\"/><figcaption>Work in progress: My portfolio page in dark mode </figcaption></figure>\n<!-- /wp:image -->\n\n<!-- wp:paragraph -->\n<p>Cory Etzkorn has an <a href=\"https://www.coryetzkorn.com/blog/implementing-dark-mode-with-sass/\">interesting and elegant dark mode solution</a>, wrapping all of the dark mode styles within a single mixin. I tried this approach, but changed course due to way my stylesheet is structured.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Revisiting my CSS in dark mode, I am seeing opportunities to use <a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/--*\">CSS variables</a> for my root colors (background, text, supporting text, links, and hovers). </p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>For my block classes and utility classes, I am including a @media (prefers-color-scheme: dark) rule for any overrides on the relevant .scss files. </p>\n<!-- /wp:paragraph -->\n",
+				"content_html": "<!-- wp:paragraph -->\n\n<p><p>I&rsquo;m currently participating in my first <a href=\"https://events.indieweb.org/2021/10/indieweb-create-day-ZKw5v2nFDu6f\">IndieWeb Create Day</a>:</p>\n<!-- /wp:paragraph --></p>\n\n<!-- wp:quote -->\n\n<p><blockquote class=\"wp-block-quote\"><p>Join us in the IndieWeb chat and in our Zoom room. Share ideas, create &amp; improve our personal websites, and build upon each other&rsquo;s creations. Whether you’re a creator, writer, blogger, coder, designer, or just someone who wants to improve their presence on the web, all skill and experience levels welcome. Breakout rooms available for those who want to collaborate on the same topic.</p></blockquote>\n<!-- /wp:quote --></p>\n\n<!-- wp:paragraph -->\n\n<p><p>I&rsquo;m using some free time today work in the same virtual space as others to add a new feature to <a href=\"https://nicksimson.com/\">my personal site</a>: dark mode!</p>\n<!-- /wp:paragraph --></p>\n\n<!-- wp:image {\"id\":186,\"sizeSlug\":\"large\",\"linkDestination\":\"none\"} -->\n\n<p><figure class=\"wp-block-image size-large\"><img src=\"https://cdn.uploads.micro.blog/67476/2022/5e30da2b1f.jpg\" alt=\"Portfolio page showcasing two web projects\" class=\"wp-image-186\"/><figcaption>Work in progress: My portfolio page in dark mode </figcaption></figure>\n<!-- /wp:image --></p>\n\n<!-- wp:paragraph -->\n\n<p><p>Cory Etzkorn has an <a href=\"https://www.coryetzkorn.com/blog/implementing-dark-mode-with-sass/\">interesting and elegant dark mode solution</a>, wrapping all of the dark mode styles within a single mixin. I tried this approach, but changed course due to way my stylesheet is structured.</p>\n<!-- /wp:paragraph --></p>\n\n<!-- wp:paragraph -->\n\n<p><p>Revisiting my CSS in dark mode, I am seeing opportunities to use <a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/--*\">CSS variables</a> for my root colors (background, text, supporting text, links, and hovers). </p>\n<!-- /wp:paragraph --></p>\n\n<!-- wp:paragraph -->\n\n<p><p>For my block classes and utility classes, I am including a @media (prefers-color-scheme: dark) rule for any overrides on the relevant .scss files. </p>\n<!-- /wp:paragraph --></p>\n",
+				"content_text": "<!-- wp:paragraph -->\n<p>I'm currently participating in my first <a href=\"https://events.indieweb.org/2021/10/indieweb-create-day-ZKw5v2nFDu6f\">IndieWeb Create Day</a>:</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:quote -->\n<blockquote class=\"wp-block-quote\"><p>Join us in the IndieWeb chat and in our Zoom room. Share ideas, create &amp; improve our personal websites, and build upon each other's creations. Whether you’re a creator, writer, blogger, coder, designer, or just someone who wants to improve their presence on the web, all skill and experience levels welcome. Breakout rooms available for those who want to collaborate on the same topic.</p></blockquote>\n<!-- /wp:quote -->\n\n<!-- wp:paragraph -->\n<p>I'm using some free time today work in the same virtual space as others to add a new feature to <a href=\"https://nicksimson.com/\">my personal site</a>: dark mode!</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:image {\"id\":186,\"sizeSlug\":\"large\",\"linkDestination\":\"none\"} -->\n<figure class=\"wp-block-image size-large\"><img src=\"https://cdn.uploads.micro.blog/67476/2022/5e30da2b1f.jpg\" alt=\"Portfolio page showcasing two web projects\" class=\"wp-image-186\"/><figcaption>Work in progress: My portfolio page in dark mode </figcaption></figure>\n<!-- /wp:image -->\n\n<!-- wp:paragraph -->\n<p>Cory Etzkorn has an <a href=\"https://www.coryetzkorn.com/blog/implementing-dark-mode-with-sass/\">interesting and elegant dark mode solution</a>, wrapping all of the dark mode styles within a single mixin. I tried this approach, but changed course due to way my stylesheet is structured.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Revisiting my CSS in dark mode, I am seeing opportunities to use <a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/--*\">CSS variables</a> for my root colors (background, text, supporting text, links, and hovers). </p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>For my block classes and utility classes, I am including a @media (prefers-color-scheme: dark) rule for any overrides on the relevant .scss files. </p>\n<!-- /wp:paragraph -->\n",
 				"date_published": "2021-10-09T15:17:36-04:00",
 				"url": "https://log.nick.sh/2021/10/09/indieweb-create-day.html"
 			},
@@ -2034,8 +2052,8 @@
 			{
 				"id": "http://nsmsn.micro.blog/2020/11/07/james-turrellamerican-b.html",
 				
-				"content_html": "<p>James Turrell\nAmerican, b. 1943</p>\n\n<p>Blue Pesher, 1997-99</p>\n\n<p><img src=\"uploads/2022/4ea036c593.jpg\" width=\"480\" height=\"600\" alt=\"A round hole cut into the ceiling shows a bright blue sky. A dark corridor leads to a bright oval room lit by the oculus\" /></p>\n\n<p>Cheekwood (Nashville, Tenn.)</p>\n",
-				"content_text": "James Turrell\nAmerican, b. 1943\n\nBlue Pesher, 1997-99\n\n<img src=\"uploads/2022/4ea036c593.jpg\" width=\"480\" height=\"600\" alt=\"A round hole cut into the ceiling shows a bright blue sky. A dark corridor leads to a bright oval room lit by the oculus\" />\n\nCheekwood (Nashville, Tenn.)\n",
+				"content_html": "<p>James Turrell\nAmerican, b. 1943</p>\n\n<p>Blue Pesher, 1997-99</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/67476/2022/4ea036c593.jpg\" width=\"480\" height=\"600\" alt=\"A round hole cut into the ceiling shows a bright blue sky. A dark corridor leads to a bright oval room lit by the oculus\" /></p>\n\n<p>Cheekwood (Nashville, Tenn.)</p>\n",
+				"content_text": "James Turrell\nAmerican, b. 1943\n\nBlue Pesher, 1997-99\n\n<img src=\"https://cdn.uploads.micro.blog/67476/2022/4ea036c593.jpg\" width=\"480\" height=\"600\" alt=\"A round hole cut into the ceiling shows a bright blue sky. A dark corridor leads to a bright oval room lit by the oculus\" />\n\nCheekwood (Nashville, Tenn.)\n",
 				"date_published": "2020-11-07T21:39:00-04:00",
 				"url": "https://log.nick.sh/2020/11/07/james-turrellamerican-b.html",
 				"tags": ["art"]
@@ -2043,8 +2061,8 @@
 			{
 				"id": "http://nsmsn.micro.blog/2020/11/07/jenny-holzeramerican-b.html",
 				
-				"content_html": "<p>Jenny Holzer\nAmerican, b. 1950</p>\n\n<p>Survival Series: In a Dream You Saw a Way, 1997</p>\n\n<p><img src=\"uploads/2022/5bd3c4369b.jpg\" width=\"600\" height=\"600\" alt=\"A marble bench inscribed with In a dream you saw a way to survive and you were full of joy\" /></p>\n\n<p>Cheekwood (Nashville, Tenn.)</p>\n",
-				"content_text": "Jenny Holzer\nAmerican, b. 1950\n\nSurvival Series: In a Dream You Saw a Way, 1997\n\n<img src=\"uploads/2022/5bd3c4369b.jpg\" width=\"600\" height=\"600\" alt=\"A marble bench inscribed with In a dream you saw a way to survive and you were full of joy\" />\n\nCheekwood (Nashville, Tenn.)\n",
+				"content_html": "<p>Jenny Holzer\nAmerican, b. 1950</p>\n\n<p>Survival Series: In a Dream You Saw a Way, 1997</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/67476/2022/5bd3c4369b.jpg\" width=\"600\" height=\"600\" alt=\"A marble bench inscribed with In a dream you saw a way to survive and you were full of joy\" /></p>\n\n<p>Cheekwood (Nashville, Tenn.)</p>\n",
+				"content_text": "Jenny Holzer\nAmerican, b. 1950\n\nSurvival Series: In a Dream You Saw a Way, 1997\n\n<img src=\"https://cdn.uploads.micro.blog/67476/2022/5bd3c4369b.jpg\" width=\"600\" height=\"600\" alt=\"A marble bench inscribed with In a dream you saw a way to survive and you were full of joy\" />\n\nCheekwood (Nashville, Tenn.)\n",
 				"date_published": "2020-11-07T14:30:00-04:00",
 				"url": "https://log.nick.sh/2020/11/07/jenny-holzeramerican-b.html",
 				"tags": ["art"]
@@ -2052,40 +2070,40 @@
 			{
 				"id": "http://nsmsn.micro.blog/2020/10/24/ok-ok-ok.html",
 				
-				"content_html": "<p>OK OK OK OK\n<img src=\"uploads/2022/cb2f014b23.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "OK OK OK OK\n<img src=\"uploads/2022/cb2f014b23.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>OK OK OK OK\n<img src=\"https://cdn.uploads.micro.blog/67476/2022/cb2f014b23.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "OK OK OK OK\n<img src=\"https://cdn.uploads.micro.blog/67476/2022/cb2f014b23.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-10-24T19:18:00-04:00",
 				"url": "https://log.nick.sh/2020/10/24/ok-ok-ok.html"
 			},
 			{
 				"id": "http://nsmsn.micro.blog/2017/12/18/091717.html",
 				
-				"content_html": "<p>It Is What It Is (Lookeba, Oklahoma)</p>\n\n<p><img src=\"uploads/2022/b18b1452b7.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "It Is What It Is (Lookeba, Oklahoma)\n\n<img src=\"uploads/2022/b18b1452b7.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>It Is What It Is (Lookeba, Oklahoma)</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/67476/2022/b18b1452b7.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "It Is What It Is (Lookeba, Oklahoma)\n\n<img src=\"https://cdn.uploads.micro.blog/67476/2022/b18b1452b7.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2017-12-18T09:17:00-04:00",
 				"url": "https://log.nick.sh/2017/12/18/091717.html"
 			},
 			{
 				"id": "http://nsmsn.micro.blog/2017/12/17/104644.html",
 				
-				"content_html": "<p>Lookeba, OK</p>\n\n<p><img src=\"uploads/2022/4adce81fab.jpg\" width=\"598\" height=\"600\" alt=\"A storefront on a rural main street\" /></p>\n",
-				"content_text": "Lookeba, OK\n\n<img src=\"uploads/2022/4adce81fab.jpg\" width=\"598\" height=\"600\" alt=\"A storefront on a rural main street\" />\n",
+				"content_html": "<p>Lookeba, OK</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/67476/2022/4adce81fab.jpg\" width=\"598\" height=\"600\" alt=\"A storefront on a rural main street\" /></p>\n",
+				"content_text": "Lookeba, OK\n\n<img src=\"https://cdn.uploads.micro.blog/67476/2022/4adce81fab.jpg\" width=\"598\" height=\"600\" alt=\"A storefront on a rural main street\" />\n",
 				"date_published": "2017-12-17T10:46:00-04:00",
 				"url": "https://log.nick.sh/2017/12/17/104644.html"
 			},
 			{
 				"id": "http://nsmsn.micro.blog/2017/12/17/104645.html",
 				
-				"content_html": "<p>Lookeba, Oklahoma Cactus Rescue</p>\n\n<p><img src=\"uploads/2022/191775843f.jpg\" width=\"598\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Lookeba, Oklahoma Cactus Rescue\n\n<img src=\"uploads/2022/191775843f.jpg\" width=\"598\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Lookeba, Oklahoma Cactus Rescue</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/67476/2022/191775843f.jpg\" width=\"598\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Lookeba, Oklahoma Cactus Rescue\n\n<img src=\"https://cdn.uploads.micro.blog/67476/2022/191775843f.jpg\" width=\"598\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2017-12-17T10:46:00-04:00",
 				"url": "https://log.nick.sh/2017/12/17/104645.html"
 			},
 			{
 				"id": "http://nsmsn.micro.blog/2016/12/30/wide-sky-yesterday.html",
 				
-				"content_html": "<p>Wide sky yesterday (Outside Santa Fe, NM)</p>\n\n<p><img src=\"uploads/2022/91d0e1ce00.jpg\" width=\"600\" height=\"449\" alt=\"\" /></p>\n",
-				"content_text": "Wide sky yesterday (Outside Santa Fe, NM)\n\n<img src=\"uploads/2022/91d0e1ce00.jpg\" width=\"600\" height=\"449\" alt=\"\" />\n",
+				"content_html": "<p>Wide sky yesterday (Outside Santa Fe, NM)</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/67476/2022/91d0e1ce00.jpg\" width=\"600\" height=\"449\" alt=\"\" /></p>\n",
+				"content_text": "Wide sky yesterday (Outside Santa Fe, NM)\n\n<img src=\"https://cdn.uploads.micro.blog/67476/2022/91d0e1ce00.jpg\" width=\"600\" height=\"449\" alt=\"\" />\n",
 				"date_published": "2016-12-30T10:35:00-04:00",
 				"url": "https://log.nick.sh/2016/12/30/wide-sky-yesterday.html"
 			}
