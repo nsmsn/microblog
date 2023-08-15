@@ -7,10 +7,46 @@
 	"items": [
 		
 			{
+				"id": "http://nsmsn.micro.blog/2023/08/14/since-moving-to.html",
+				
+				"content_html": "<p>Since moving to Albuquerque, I still can&rsquo;t find a favorite local radio station here. This morning I published an initial <a href=\"https://github.com/nsmsn/insomnia-fm\">list of unique stations</a> I can listen to via the web.</p>\n\n<p>I welcome suggestions to add to this list, especially broadcasts outside the U.S. This list currently reflects a bias toward places I&rsquo;ve lived or visited.</p>\n",
+				"content_text": "Since moving to Albuquerque, I still can't find a favorite local radio station here. This morning I published an initial [list of unique stations](https://github.com/nsmsn/insomnia-fm) I can listen to via the web.\n\nI welcome suggestions to add to this list, especially broadcasts outside the U.S. This list currently reflects a bias toward places I've lived or visited.\n",
+				"date_published": "2023-08-14T12:30:13-04:00",
+				"url": "https://log.nick.sh/2023/08/14/since-moving-to.html",
+				"tags": ["websites","music","place"]
+			},
+			{
+				"id": "http://nsmsn.micro.blog/2023/08/13/want-to-read.html",
+				
+				"content_html": "<p>Want to read <a href=\"https://micro.blog/books/9781452932873\">The Neoliberal Deluge</a>, a critical collection on the politics of disaster and reconstruction in New Orleans, edited by Cedric Johnson 📚</p>\n\n<blockquote>\n<p>&ldquo;Katrina was not just a hurricane. The death, destruction, and misery wreaked on New Orleans cannot be blamed on nature&rsquo;s fury alone. This volume of essays locates the root causes of the 2005 disaster squarely in neoliberal restructuring and examines how pro-market reforms are reshaping life, politics, economy, and the built environment in New Orleans.&rdquo;</p>\n</blockquote>\n\n<p>Contributors: Barbara L. Allen, John Arena, Adrienne Dixson, Eric Ishiwata, Avis Jones-Deweever, Chad Lavin, Paul Passavant, Linda Robertson, Chris Russill, Kanchana Ruwanpura, Nicole Trujillo-Pagán, and Geoffrey Whitehall.</p>\n",
+				"content_text": "Want to read [The Neoliberal Deluge](https://micro.blog/books/9781452932873), a critical collection on the politics of disaster and reconstruction in New Orleans, edited by Cedric Johnson 📚\r\n\r\n> \"Katrina was not just a hurricane. The death, destruction, and misery wreaked on New Orleans cannot be blamed on nature's fury alone. This volume of essays locates the root causes of the 2005 disaster squarely in neoliberal restructuring and examines how pro-market reforms are reshaping life, politics, economy, and the built environment in New Orleans.\"\r\n\r\nContributors: Barbara L. Allen, John Arena, Adrienne Dixson, Eric Ishiwata, Avis Jones-Deweever, Chad Lavin, Paul Passavant, Linda Robertson, Chris Russill, Kanchana Ruwanpura, Nicole Trujillo-Pagán, and Geoffrey Whitehall.\n",
+				"date_published": "2023-08-13T15:35:02-04:00",
+				"url": "https://log.nick.sh/2023/08/13/want-to-read.html",
+				"tags": ["books"]
+			},
+			{
+				"id": "http://nsmsn.micro.blog/2023/08/13/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading <a href=\"https://micro.blog/books/9780300252392\">The Atlas of AI</a> by Kate Crawford 📚</p>\n",
+				"content_text": "Finished reading [The Atlas of AI](https://micro.blog/books/9780300252392) by Kate Crawford 📚\n",
+				"date_published": "2023-08-13T10:56:58-04:00",
+				"url": "https://log.nick.sh/2023/08/13/finished-reading-the.html",
+				"tags": ["books"]
+			},
+			{
+				"id": "http://nsmsn.micro.blog/2023/08/11/want-to-read.html",
+				
+				"content_html": "<p>Want to read <a href=\"https://networked-leviathan.com/\">The Networked Leviathan</a> by Paul Gowder 📚</p>\n\n<blockquote>\n<p>This book offers a social-science-informed program to democratize the major internet companies that are unable to govern their users.</p>\n</blockquote>\n",
+				"content_text": "Want to read [The Networked Leviathan](https://networked-leviathan.com/) by Paul Gowder 📚\n\n> This book offers a social-science-informed program to democratize the major internet companies that are unable to govern their users.\n",
+				"date_published": "2023-08-11T12:50:08-04:00",
+				"url": "https://log.nick.sh/2023/08/11/want-to-read.html",
+				"tags": ["books"]
+			},
+			{
 				"id": "http://nsmsn.micro.blog/2023/08/09/i-found-a.html",
 				
-				"content_html": "<p>I found a lovely matching set of record cabinets at an antique store last weekend. Also upgraded my old turntable to a model with Bluetooth: I can listen to my records in another room with wireless headphones!</p>\n\n<p>It feels so good to get my vinyl out of cardboard storage boxes and playing it again.</p>\n\n<p><img src=\"uploads/2023/d68328a561.jpg\" width=\"600\" height=\"450\" alt=\"A stash of vinyl records in an open walnut cabinet. A turntable and bookshelf speakers sit on top, under a window.\"></p>\n",
-				"content_text": "I found a lovely matching set of record cabinets at an antique store last weekend. Also upgraded my old turntable to a model with Bluetooth: I can listen to my records in another room with wireless headphones!\n\nIt feels so good to get my vinyl out of cardboard storage boxes and playing it again.\n\n<img src=\"uploads/2023/d68328a561.jpg\" width=\"600\" height=\"450\" alt=\"A stash of vinyl records in an open walnut cabinet. A turntable and bookshelf speakers sit on top, under a window.\">\n",
+				"content_html": "<p>I found a lovely matching set of record cabinets at an antique store last weekend. Also upgraded my old turntable to a model with Bluetooth: I can listen to my records in another room with wireless headphones!</p>\n\n<p><img src=\"uploads/2023/d68328a561.jpg\" width=\"600\" height=\"450\" alt=\"A stash of vinyl records in an open walnut cabinet. A turntable and bookshelf speakers sit on top, under a window.\"></p>\n\n<p>It feels good to get these records out of cardboard boxes and to play them again.</p>\n",
+				"content_text": "I found a lovely matching set of record cabinets at an antique store last weekend. Also upgraded my old turntable to a model with Bluetooth: I can listen to my records in another room with wireless headphones!\n\n<img src=\"uploads/2023/d68328a561.jpg\" width=\"600\" height=\"450\" alt=\"A stash of vinyl records in an open walnut cabinet. A turntable and bookshelf speakers sit on top, under a window.\">\n\nIt feels good to get these records out of cardboard boxes and to play them again.\n",
 				"date_published": "2023-08-09T17:07:44-04:00",
 				"url": "https://log.nick.sh/2023/08/09/i-found-a.html",
 				"tags": ["personal","music","technology"]
@@ -36,8 +72,8 @@
 			{
 				"id": "http://nsmsn.micro.blog/2023/08/02/my-new-license.html",
 				
-				"content_html": "<p>My new license plate arrived in the mail today and the first three characters on it are RSS (this is not a vanity plate).</p>\n\n<p><img src=\"uploads/2023/f4fe52aa78.jpg\" width=\"579\" height=\"600\" alt=\"A turquoise New Mexico license plate. The first three characters are RSS.\"></p>\n",
-				"content_text": "My new license plate arrived in the mail today and the first three characters on it are RSS (this is not a vanity plate).\n\n<img src=\"uploads/2023/f4fe52aa78.jpg\" width=\"579\" height=\"600\" alt=\"A turquoise New Mexico license plate. The first three characters are RSS.\">\n",
+				"content_html": "<p>My new license plate arrived in the mail today and the first three characters on it are RSS (this is not a vanity plate).</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/67476/2023/f4fe52aa78.jpg\" width=\"579\" height=\"600\" alt=\"A turquoise New Mexico license plate. The first three characters are RSS.\"></p>\n",
+				"content_text": "My new license plate arrived in the mail today and the first three characters on it are RSS (this is not a vanity plate).\n\n<img src=\"https://cdn.uploads.micro.blog/67476/2023/f4fe52aa78.jpg\" width=\"579\" height=\"600\" alt=\"A turquoise New Mexico license plate. The first three characters are RSS.\">\n",
 				"date_published": "2023-08-02T18:09:21-04:00",
 				"url": "https://log.nick.sh/2023/08/02/my-new-license.html",
 				"tags": ["IndieWeb","personal"]
