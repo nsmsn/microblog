@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://nsmsn.micro.blog/2023/08/24/a-personal-goal.html",
+				
+				"content_html": "<p>A personal goal I am working on is to get better at public speaking. I’m writing and practicing a 5 minute introductory talk, which I’ll deliver next week as my first step on this journey.</p>\n",
+				"content_text": "A personal goal I am working on is to get better at public speaking. I’m writing and practicing a 5 minute introductory talk, which I’ll deliver next week as my first step on this journey.\n",
+				"date_published": "2023-08-24T10:32:30-04:00",
+				"url": "https://log.nick.sh/2023/08/24/a-personal-goal.html",
+				"tags": ["personal"]
+			},
+			{
+				"id": "http://nsmsn.micro.blog/2023/08/20/finished-reading-free.html",
+				
+				"content_html": "<p>Finished reading <a href=\"https://micro.blog/books/9781541600492\">Free Speech</a> by Jacob Mchangama 📚</p>\n",
+				"content_text": "Finished reading [Free Speech](https://micro.blog/books/9781541600492) by Jacob Mchangama 📚\n",
+				"date_published": "2023-08-20T11:39:10-04:00",
+				"url": "https://log.nick.sh/2023/08/20/finished-reading-free.html",
+				"tags": ["books"]
+			},
+			{
 				"id": "http://nsmsn.micro.blog/2023/08/14/since-moving-to.html",
 				
 				"content_html": "<p>Since moving to Albuquerque, I still can&rsquo;t find a favorite local radio station here. This morning I published an initial <a href=\"https://github.com/nsmsn/insomnia-fm\">list of unique stations</a> I can listen to via the web.</p>\n\n<p>I welcome suggestions to add to this list, especially broadcasts outside the U.S. This list currently reflects a bias toward places I&rsquo;ve lived or visited.</p>\n",
@@ -45,8 +63,8 @@
 			{
 				"id": "http://nsmsn.micro.blog/2023/08/09/i-found-a.html",
 				
-				"content_html": "<p>I found a lovely matching set of record cabinets at an antique store last weekend. Also upgraded my old turntable to a model with Bluetooth: I can listen to my records in another room with wireless headphones!</p>\n\n<p><img src=\"uploads/2023/d68328a561.jpg\" width=\"600\" height=\"450\" alt=\"A stash of vinyl records in an open walnut cabinet. A turntable and bookshelf speakers sit on top, under a window.\"></p>\n\n<p>It feels good to get these records out of cardboard boxes and to play them again.</p>\n",
-				"content_text": "I found a lovely matching set of record cabinets at an antique store last weekend. Also upgraded my old turntable to a model with Bluetooth: I can listen to my records in another room with wireless headphones!\n\n<img src=\"uploads/2023/d68328a561.jpg\" width=\"600\" height=\"450\" alt=\"A stash of vinyl records in an open walnut cabinet. A turntable and bookshelf speakers sit on top, under a window.\">\n\nIt feels good to get these records out of cardboard boxes and to play them again.\n",
+				"content_html": "<p>I found a lovely matching set of record cabinets at an antique store last weekend. Also upgraded my old turntable to a model with Bluetooth: I can listen to my records in another room with wireless headphones!</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/67476/2023/d68328a561.jpg\" width=\"600\" height=\"450\" alt=\"A stash of vinyl records in an open walnut cabinet. A turntable and bookshelf speakers sit on top, under a window.\"></p>\n\n<p>It feels good to get these records out of cardboard boxes and to play them again.</p>\n",
+				"content_text": "I found a lovely matching set of record cabinets at an antique store last weekend. Also upgraded my old turntable to a model with Bluetooth: I can listen to my records in another room with wireless headphones!\n\n<img src=\"https://cdn.uploads.micro.blog/67476/2023/d68328a561.jpg\" width=\"600\" height=\"450\" alt=\"A stash of vinyl records in an open walnut cabinet. A turntable and bookshelf speakers sit on top, under a window.\">\n\nIt feels good to get these records out of cardboard boxes and to play them again.\n",
 				"date_published": "2023-08-09T17:07:44-04:00",
 				"url": "https://log.nick.sh/2023/08/09/i-found-a.html",
 				"tags": ["personal","music","technology"]
