@@ -7,10 +7,37 @@
 	"items": [
 		
 			{
+				"id": "http://nsmsn.micro.blog/2023/08/25/missing-out-on.html",
+				
+				"content_html": "<p>🎵 Missing out on seeing the Breeders at <a href=\"https://ghostranchmusicfest.com/\">Ghost Ranch Music Festival</a> tonight.</p>\n\n<p>Listening to <a href=\"https://agiantdog.bandcamp.com/album/bite\">Bite</a>, the new LP from A Giant Dog instead. 🎵</p>\n",
+				"content_text": "🎵 Missing out on seeing the Breeders at [Ghost Ranch Music Festival](https://ghostranchmusicfest.com/) tonight. \n\nListening to [Bite](https://agiantdog.bandcamp.com/album/bite), the new LP from A Giant Dog instead. 🎵 \n",
+				"date_published": "2023-08-25T19:44:05-04:00",
+				"url": "https://log.nick.sh/2023/08/25/missing-out-on.html",
+				"tags": ["music"]
+			},
+			{
+				"id": "http://nsmsn.micro.blog/2023/08/25/visited-title-wave.html",
+				
+				"content_html": "<p>Visited <a href=\"https://www.titlewavebooks.com/\">Title Wave Books, Revised</a> this morning and found a copy of ‘Killing the Buddha’ for 25 cents. This is the original hardcover with ❌ dust jacket by Paul Sahre.</p>\n\n<p><img src=\"uploads/2023/e42753f699.jpg\" width=\"450\" height=\"600\" alt=\"Book cover featuring a photo of a white cloud in a blue sky with a big red X through the middle\"></p>\n\n<p>Also picked out some picture books with the kiddo.</p>\n",
+				"content_text": "Visited [Title Wave Books, Revised](https://www.titlewavebooks.com/) this morning and found a copy of ‘Killing the Buddha’ for 25 cents. This is the original hardcover with ❌ dust jacket by Paul Sahre.\n\n<img src=\"uploads/2023/e42753f699.jpg\" width=\"450\" height=\"600\" alt=\"Book cover featuring a photo of a white cloud in a blue sky with a big red X through the middle\">\n\nAlso picked out some picture books with the kiddo. \n",
+				"date_published": "2023-08-25T14:46:44-04:00",
+				"url": "https://log.nick.sh/2023/08/25/visited-title-wave.html",
+				"tags": ["books","ABQ"]
+			},
+			{
+				"id": "http://nsmsn.micro.blog/2023/08/24/finished-reading-austerlitz.html",
+				
+				"content_html": "<p>Finished reading <a href=\"https://micro.blog/books/9780679645412\">Austerlitz</a> by W.G. Sebald 📚</p>\n",
+				"content_text": "Finished reading [Austerlitz](https://micro.blog/books/9780679645412) by W.G. Sebald 📚\n",
+				"date_published": "2023-08-24T21:50:34-04:00",
+				"url": "https://log.nick.sh/2023/08/24/finished-reading-austerlitz.html",
+				"tags": ["books"]
+			},
+			{
 				"id": "http://nsmsn.micro.blog/2023/08/24/a-personal-goal.html",
 				
-				"content_html": "<p>A personal goal I am working on is to get better at public speaking. I’m writing and practicing a 5 minute introductory talk, which I’ll deliver next week as my first step on this journey.</p>\n",
-				"content_text": "A personal goal I am working on is to get better at public speaking. I’m writing and practicing a 5 minute introductory talk, which I’ll deliver next week as my first step on this journey.\n",
+				"content_html": "<p>I&rsquo;m working on a personal goal: to get better at public speaking. I’m currently writing and practicing a 5 minute introductory talk, which I’ll deliver next week as my first step on this journey.</p>\n",
+				"content_text": "I'm working on a personal goal: to get better at public speaking. I’m currently writing and practicing a 5 minute introductory talk, which I’ll deliver next week as my first step on this journey.\n",
 				"date_published": "2023-08-24T10:32:30-04:00",
 				"url": "https://log.nick.sh/2023/08/24/a-personal-goal.html",
 				"tags": ["personal"]
@@ -31,7 +58,7 @@
 				"content_text": "Since moving to Albuquerque, I still can't find a favorite local radio station here. This morning I published an initial [list of unique stations](https://github.com/nsmsn/insomnia-fm) I can listen to via the web.\n\nI welcome suggestions to add to this list, especially broadcasts outside the U.S. This list currently reflects a bias toward places I've lived or visited.\n",
 				"date_published": "2023-08-14T12:30:13-04:00",
 				"url": "https://log.nick.sh/2023/08/14/since-moving-to.html",
-				"tags": ["websites","music","place"]
+				"tags": ["websites","music","place","ABQ"]
 			},
 			{
 				"id": "http://nsmsn.micro.blog/2023/08/13/want-to-read.html",
@@ -889,7 +916,7 @@
 				"content_text": "<img src=\"https://cdn.uploads.micro.blog/67476/2022/b9d435bc90.jpg\" width=\"450\" height=\"600\" alt=\"rocks covered in ancient symbols carved into rock\"> \n\n<img src=\"https://cdn.uploads.micro.blog/67476/2022/eda029c82d.jpg\" width=\"450\" height=\"600\" alt=\"hot air balloons in the sky over an Albuquerque neighborhood \">\n\nPetroglyphs and balloons.\n\n📍Piedras Marcadas Canyon Trail (near Albuquerque, NM)\n",
 				"date_published": "2022-12-27T19:43:50-04:00",
 				"url": "https://log.nick.sh/2022/12/27/petroglyphs-and-balloons.html",
-				"tags": ["place"]
+				"tags": ["place","ABQ"]
 			},
 			{
 				"id": "http://nsmsn.micro.blog/2022/12/26/there-are-other.html",
@@ -2101,7 +2128,7 @@
 				"content_text": "<!-- wp:paragraph {\"fontSize\":\"medium\"} -->\n<p class=\"has-medium-font-size\"><a href=\"https://theordinarythings.com/\">TheOrdinaryThings.com→</a></p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>This was a fun one to work on. And it went relatively quick. It started with Jackie, Eleanor and I catching up over lunch in Albuquerque and then a follow-up via email. The email brief:</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:quote -->\n<blockquote class=\"wp-block-quote\"><p>We are still wanting to work on a website! We do not currently have a domain name. I can certainly do that to get us started but would love some direction on the best way to go about that. We are wanting a basic, easy to navigate site that can also link to our bandcamp page (link below) as that is how we sell all of our merch and music.</p></blockquote>\n<!-- /wp:quote -->\n\n<!-- wp:paragraph -->\n<p>We had a working website on GitHub Pages a couple weeks later. And amazingly the dot com was available! <a href=\"https://siteleaf.com\">Siteleaf</a> is a great experience for editing markdown files. Pretty great way to host a site inexpensively with a good CMS without compromising quality or performance. I still love how easy it is to work with collections in <a href=\"https://jekyllrb.com/\" data-type=\"URL\" data-id=\"https://jekyllrb.com/\">Jekyll</a>. This is also the first site I launched supporting light mode and dark mode.</p>\n<!-- /wp:paragraph -->\n\n<p>Check out the band's latest music video:</p>\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/T7Eo0mbiwqc\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n",
 				"date_published": "2021-09-05T02:40:00-04:00",
 				"url": "https://log.nick.sh/2021/09/05/the-ordinary-things.html",
-				"tags": ["websites","client work","jekyll","music","Link","Siteleaf","Work"]
+				"tags": ["websites","client work","jekyll","music","Link","Siteleaf","Work","ABQ"]
 			},
 			{
 				"id": "http://nsmsn.micro.blog/2020/11/07/james-turrellamerican-b.html",
