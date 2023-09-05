@@ -7,6 +7,41 @@
 	"items": [
 		
 			{
+				"id": "http://nsmsn.micro.blog/2023/09/05/cory-doctorow-has.html",
+				
+				"content_html": "<p>Cory Doctorow has an <a href=\"https://pluralistic.net/2023/09/05/not-that-naomi/#if-the-naomi-be-klein-youre-doing-just-fine\">intriguing review of Naomi Klein’s new book “Doppelganger”</a> and will be featured in conversation with the author at her book launch tomorrow, <a href=\"https://www.youtube.com/live/jIoAh-jxb2k\">livestreamed on YouTube</a>.</p>\n",
+				"content_text": "Cory Doctorow has an [intriguing review of Naomi Klein’s new book “Doppelganger”](https://pluralistic.net/2023/09/05/not-that-naomi/#if-the-naomi-be-klein-youre-doing-just-fine) and will be featured in conversation with the author at her book launch tomorrow, [livestreamed on YouTube](https://www.youtube.com/live/jIoAh-jxb2k).\n",
+				"date_published": "2023-09-05T19:49:26-04:00",
+				"url": "https://log.nick.sh/2023/09/05/cory-doctorow-has.html"
+			},
+			{
+				"id": "http://nsmsn.micro.blog/2023/09/02/finished-reading-sea.html",
+				
+				"content_html": "<p>Finished reading <a href=\"https://micro.blog/books/9780593321454\">Sea of Tranquility</a> by Emily St. John Mandel 📚</p>\n\n<p>I didn’t realize there would be pandemic themes going into this one, but it was interesting to see characters and settings from the earlier book, The Glass Hotel. Overall, I enjoyed the plot, pacing, and time travel elements.</p>\n",
+				"content_text": "Finished reading [Sea of Tranquility](https://micro.blog/books/9780593321454) by Emily St. John Mandel 📚\n\nI didn’t realize there would be pandemic themes going into this one, but it was interesting to see characters and settings from the earlier book, The Glass Hotel. Overall, I enjoyed the plot, pacing, and time travel elements.\n",
+				"date_published": "2023-09-02T11:56:11-04:00",
+				"url": "https://log.nick.sh/2023/09/02/finished-reading-sea.html",
+				"tags": ["books"]
+			},
+			{
+				"id": "http://nsmsn.micro.blog/2023/08/31/bookmarked-the-washington.html",
+				
+				"content_html": "<p>Bookmarked the Washington Post&rsquo;s <a href=\"https://www.washingtonpost.com/travel/interactive/2023/best-pizza-new-york-chicago-los-angeles/\">guide to the best regional pizza</a> and <a href=\"https://www.washingtonpost.com/travel/interactive/2023/best-pizza-map-style-near-you/\">interactive map/locator</a> (U.S.-only) for future travels. 🍕</p>\n",
+				"content_text": "Bookmarked the Washington Post's [guide to the best regional pizza](https://www.washingtonpost.com/travel/interactive/2023/best-pizza-new-york-chicago-los-angeles/) and [interactive map/locator](https://www.washingtonpost.com/travel/interactive/2023/best-pizza-map-style-near-you/) (U.S.-only) for future travels. 🍕\n",
+				"date_published": "2023-08-31T15:34:15-04:00",
+				"url": "https://log.nick.sh/2023/08/31/bookmarked-the-washington.html",
+				"tags": ["Link","food","Bookmarks"]
+			},
+			{
+				"id": "http://nsmsn.micro.blog/2023/08/31/started-reading-sea.html",
+				
+				"content_html": "<p>Started reading <a href=\"https://micro.blog/books/9780593321454\">Sea of Tranquility</a> by Emily St. John Mandel 📚</p>\n",
+				"content_text": "Started reading [Sea of Tranquility](https://micro.blog/books/9780593321454) by Emily St. John Mandel 📚\n",
+				"date_published": "2023-08-31T15:11:58-04:00",
+				"url": "https://log.nick.sh/2023/08/31/started-reading-sea.html",
+				"tags": ["books"]
+			},
+			{
 				"id": "http://nsmsn.micro.blog/2023/08/25/missing-out-on.html",
 				
 				"content_html": "<p>🎵 Missing out on seeing the Breeders at <a href=\"https://ghostranchmusicfest.com/\">Ghost Ranch Music Festival</a> tonight.</p>\n\n<p>Listening to <a href=\"https://agiantdog.bandcamp.com/album/bite\">Bite</a>, the new LP from A Giant Dog instead. 🎵</p>\n",
@@ -18,8 +53,8 @@
 			{
 				"id": "http://nsmsn.micro.blog/2023/08/25/visited-title-wave.html",
 				
-				"content_html": "<p>Visited <a href=\"https://www.titlewavebooks.com/\">Title Wave Books, Revised</a> this morning and found a copy of ‘Killing the Buddha’ for 25 cents. This is the original hardcover with ❌ dust jacket by Paul Sahre.</p>\n\n<p><img src=\"uploads/2023/e42753f699.jpg\" width=\"450\" height=\"600\" alt=\"Book cover featuring a photo of a white cloud in a blue sky with a big red X through the middle\"></p>\n\n<p>Also picked out some picture books with the kiddo.</p>\n",
-				"content_text": "Visited [Title Wave Books, Revised](https://www.titlewavebooks.com/) this morning and found a copy of ‘Killing the Buddha’ for 25 cents. This is the original hardcover with ❌ dust jacket by Paul Sahre.\n\n<img src=\"uploads/2023/e42753f699.jpg\" width=\"450\" height=\"600\" alt=\"Book cover featuring a photo of a white cloud in a blue sky with a big red X through the middle\">\n\nAlso picked out some picture books with the kiddo. \n",
+				"content_html": "<p>Visited <a href=\"https://www.titlewavebooks.com/\">Title Wave Books, Revised</a> this morning and found a copy of ‘Killing the Buddha’ for 25 cents. This is the original hardcover with ❌ dust jacket by Paul Sahre.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/67476/2023/e42753f699.jpg\" width=\"450\" height=\"600\" alt=\"Book cover featuring a photo of a white cloud in a blue sky with a big red X through the middle\"></p>\n\n<p>Also picked out some picture books with the kiddo.</p>\n",
+				"content_text": "Visited [Title Wave Books, Revised](https://www.titlewavebooks.com/) this morning and found a copy of ‘Killing the Buddha’ for 25 cents. This is the original hardcover with ❌ dust jacket by Paul Sahre.\n\n<img src=\"https://cdn.uploads.micro.blog/67476/2023/e42753f699.jpg\" width=\"450\" height=\"600\" alt=\"Book cover featuring a photo of a white cloud in a blue sky with a big red X through the middle\">\n\nAlso picked out some picture books with the kiddo. \n",
 				"date_published": "2023-08-25T14:46:44-04:00",
 				"url": "https://log.nick.sh/2023/08/25/visited-title-wave.html",
 				"tags": ["books","ABQ"]
